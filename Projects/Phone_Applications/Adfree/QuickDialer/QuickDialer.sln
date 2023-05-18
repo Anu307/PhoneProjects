@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickDialer", "QuickDialer\QuickDialer.csproj", "{79938C9D-8F96-47DD-BFE8-1E55D5D211DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79938C9D-8F96-47DD-BFE8-1E55D5D211DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79938C9D-8F96-47DD-BFE8-1E55D5D211DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79938C9D-8F96-47DD-BFE8-1E55D5D211DA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{79938C9D-8F96-47DD-BFE8-1E55D5D211DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79938C9D-8F96-47DD-BFE8-1E55D5D211DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79938C9D-8F96-47DD-BFE8-1E55D5D211DA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

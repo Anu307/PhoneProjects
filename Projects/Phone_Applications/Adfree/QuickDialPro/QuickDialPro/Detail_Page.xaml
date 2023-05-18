@@ -1,0 +1,87 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="QuickDialPro.Detail_Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+
+            <shell:ApplicationBarIconButton Click="Save_Click" IconUri="appbar.save.rest.png" Text="Save"/>
+            <shell:ApplicationBarIconButton Click="Cancel_Click" IconUri="appbar.cancel.rest.png" Text="Cancel"/>
+
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <ScrollViewer x:Name="LayoutRoot" Background="Transparent">
+        <Grid>
+            <!--TitlePanel contains the name of the application and page title-->
+            <StackPanel Grid.Row="0" Margin="12,17,0,684">
+                <TextBlock Text="Details" Style="{StaticResource PhoneTextNormalStyle}"/>
+            </StackPanel>
+
+            <Grid x:Name="ContentPanel" Margin="12,72,12,0">
+                <Button Content="1" HorizontalAlignment="Left" Margin="-14,-27,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+                <TextBox x:Name="Number0" HorizontalAlignment="Left" Height="72" Margin="40,-27,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="NickName0" HorizontalAlignment="Left" Height="72" Margin="216,-27,0,0" TextWrapping="Wrap" Text="NickName" VerticalAlignment="Top" Width="206"/>
+                <Button x:Name="ButtonImage0" HorizontalAlignment="Left" Height="72" Margin="404,-25,-20,0" VerticalAlignment="Top" Width="72" Click="ButtonImage_Click" Content="1"/>
+
+                <Button Content="2" HorizontalAlignment="Left" Margin="-14,34,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+                <TextBox x:Name="Number1" HorizontalAlignment="Left" Height="72" Margin="40,34,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="NickName1" HorizontalAlignment="Left" Height="72" Margin="216,34,0,0" TextWrapping="Wrap" Text="NickName" VerticalAlignment="Top" Width="206"/>
+                <Button Content="3" HorizontalAlignment="Left" Margin="-14,91,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+                <TextBox x:Name="Number2" HorizontalAlignment="Left" Height="72" Margin="40,91,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="NickName2" HorizontalAlignment="Left" Height="72" Margin="216,91,0,0" TextWrapping="Wrap" Text="NickName" VerticalAlignment="Top" Width="206"/>
+                <Button Content="4" HorizontalAlignment="Left" Margin="-14,148,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+                <TextBox x:Name="Number3" HorizontalAlignment="Left" Height="72" Margin="40,148,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="NickName3" HorizontalAlignment="Left" Height="72" Margin="216,148,0,0" TextWrapping="Wrap" Text="NickName" VerticalAlignment="Top" Width="206"/>
+                <Button Content="5" HorizontalAlignment="Left" Margin="-14,203,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+                <TextBox x:Name="Number4" HorizontalAlignment="Left" Height="72" Margin="40,203,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="NickName4" HorizontalAlignment="Left" Height="72" Margin="216,203,0,0" TextWrapping="Wrap" Text="NickName" VerticalAlignment="Top" Width="206"/>
+                <Button Content="6" HorizontalAlignment="Left" Margin="-14,260,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+                <TextBox x:Name="Number5" HorizontalAlignment="Left" Height="72" Margin="40,260,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="NickName5" HorizontalAlignment="Left" Height="72" Margin="216,260,0,0" TextWrapping="Wrap" Text="NickName" VerticalAlignment="Top" Width="206"/>
+                <Button Content="7" HorizontalAlignment="Left" Margin="-14,313,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+                <TextBox x:Name="Number6" HorizontalAlignment="Left" Height="72" Margin="40,313,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="NickName6" HorizontalAlignment="Left" Height="72" Margin="216,313,0,0" TextWrapping="Wrap" Text="NickName" VerticalAlignment="Top" Width="206"/>
+                <Button Content="8" HorizontalAlignment="Left" Margin="-14,370,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+                <TextBox x:Name="Number7" HorizontalAlignment="Left" Height="72" Margin="40,370,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="NickName7" HorizontalAlignment="Left" Height="72" Margin="216,370,0,0" TextWrapping="Wrap" Text="NickName" VerticalAlignment="Top" Width="206"/>
+                <Button Content="9" HorizontalAlignment="Left" Margin="-14,424,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+                <TextBox x:Name="Number8" HorizontalAlignment="Left" Height="72" Margin="40,424,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="NickName8" HorizontalAlignment="Left" Height="72" Margin="216,424,0,0" TextWrapping="Wrap" Text="NickName" VerticalAlignment="Top" Width="206"/>
+                <Button Content="10" HorizontalAlignment="Left" Margin="-14,482,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+                <TextBox x:Name="Number9" HorizontalAlignment="Left" Height="72" Margin="40,481,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="NickName9" HorizontalAlignment="Left" Height="72" Margin="216,481,0,0" TextWrapping="Wrap" Text="NickName" VerticalAlignment="Top" Width="206"/>
+                <Button Content="11" HorizontalAlignment="Left" Margin="-14,537,0,0" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+                <TextBox x:Name="Number10" HorizontalAlignment="Left" Height="72" Margin="40,536,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="NickName10" HorizontalAlignment="Left" Height="72" Margin="216,536,0,0" TextWrapping="Wrap" Text="NickName" VerticalAlignment="Top" Width="206"/>
+                <Button Content="12" HorizontalAlignment="Left" Margin="-14,592,0,-8" VerticalAlignment="Top" Width="72" Click="Button_Click"/>
+                <TextBox x:Name="Number11" HorizontalAlignment="Left" Height="72" Margin="40,591,0,-7" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="NickName11" HorizontalAlignment="Left" Height="72" Margin="216,591,0,-7" TextWrapping="Wrap" Text="NickName" VerticalAlignment="Top" Width="206"/>
+                <Button x:Name="ButtonImage1" HorizontalAlignment="Left" Height="72" Margin="404,32,-20,0" VerticalAlignment="Top" Width="72" Click="ButtonImage_Click" Content="2"/>
+                <Button x:Name="ButtonImage2" HorizontalAlignment="Left" Height="72" Margin="404,91,-20,0" VerticalAlignment="Top" Width="72" Click="ButtonImage_Click" Content="3"/>
+                <Button x:Name="ButtonImage3" HorizontalAlignment="Left" Height="72" Margin="404,148,-20,0" VerticalAlignment="Top" Width="72" Click="ButtonImage_Click" Content="4"/>
+                <Button x:Name="ButtonImage4" HorizontalAlignment="Left" Height="72" Margin="404,202,-20,0" VerticalAlignment="Top" Width="72" Click="ButtonImage_Click" Content="5"/>
+                <Button x:Name="ButtonImage5" HorizontalAlignment="Left" Height="72" Margin="404,259,-20,0" VerticalAlignment="Top" Width="72" Click="ButtonImage_Click" Content="6"/>
+                <Button x:Name="ButtonImage6" HorizontalAlignment="Left" Height="72" Margin="404,313,-20,0" VerticalAlignment="Top" Width="72" Click="ButtonImage_Click" Content="7"/>
+                <Button x:Name="ButtonImage7" HorizontalAlignment="Left" Height="72" Margin="404,370,-20,0" VerticalAlignment="Top" Width="72" Click="ButtonImage_Click" Content="8"/>
+                <Button x:Name="ButtonImage8" HorizontalAlignment="Left" Height="72" Margin="404,423,-20,0" VerticalAlignment="Top" Width="72" Click="ButtonImage_Click" Content="9"/>
+                <Button x:Name="ButtonImage9" HorizontalAlignment="Left" Height="72" Margin="404,480,-20,0" VerticalAlignment="Top" Width="72" Click="ButtonImage_Click" Content="10"/>
+                <Button x:Name="ButtonImage10" HorizontalAlignment="Left" Height="72" Margin="404,534,-20,0" VerticalAlignment="Top" Width="72" Click="ButtonImage_Click" Content="11"/>
+                <Button x:Name="ButtonImage11" HorizontalAlignment="Left" Height="72" Margin="404,591,-20,-7" VerticalAlignment="Top" Width="72" Click="ButtonImage_Click" Content="12"/>
+
+
+            </Grid>
+        </Grid>
+    </ScrollViewer>
+
+</phone:PhoneApplicationPage>

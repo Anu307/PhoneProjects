@@ -1,0 +1,18 @@
+﻿<xapCache source="E:\projects\QuickDialer\QuickDialer\Bin\Debug\QuickDialer.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="9/3/2013 3:47:19 PM">
+  <file source="E:\projects\QuickDialer\QuickDialer\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="9/3/2013 1:58:40 PM" />
+  <file source="E:\projects\QuickDialer\QuickDialer\Background.png" archivePath="Background.png" lastWriteTime="9/3/2013 1:58:33 PM" />
+  <file source="E:\projects\QuickDialer\QuickDialer\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="9/3/2013 1:58:33 PM" />
+  <file source="E:\projects\QuickDialer\QuickDialer\obj\Debug\QuickDialer.dll" archivePath="QuickDialer.dll" lastWriteTime="9/3/2013 3:47:17 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Advertising for Phone\Libraries\v7.1\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="7/20/2012 7:57:18 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Advertising for Phone\Libraries\v7.1\microsoft.advertising.mobile.ui.dll" archivePath="microsoft.advertising.mobile.ui.dll" lastWriteTime="7/20/2012 7:57:18 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="7/6/2012 1:40:16 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="7/6/2012 1:40:16 AM" />
+  <file source="E:\projects\QuickDialer\QuickDialer\appbar.cancel.rest.png" archivePath="appbar.cancel.rest.png" lastWriteTime="9/3/2013 1:19:05 PM" />
+  <file source="E:\projects\QuickDialer\QuickDialer\appbar.feature.email.rest.png" archivePath="appbar.feature.email.rest.png" lastWriteTime="9/2/2013 5:22:20 PM" />
+  <file source="E:\projects\QuickDialer\QuickDialer\appbar.save.rest.png" archivePath="appbar.save.rest.png" lastWriteTime="9/2/2013 5:21:54 PM" />
+  <file source="E:\projects\QuickDialer\QuickDialer\feature.phone.png" archivePath="feature.phone.png" lastWriteTime="9/2/2013 5:23:04 PM" />
+  <file source="E:\projects\QuickDialer\QuickDialer\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="9/3/2013 1:58:33 PM" />
+  <file source="E:\projects\QuickDialer\QuickDialer\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="9/3/2013 3:40:13 PM" />
+  <file source="E:\projects\QuickDialer\QuickDialer\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="9/3/2013 1:58:33 PM" />
+  <file source="E:\projects\QuickDialer\QuickDialer\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="9/3/2013 1:58:33 PM" />
+</xapCache>

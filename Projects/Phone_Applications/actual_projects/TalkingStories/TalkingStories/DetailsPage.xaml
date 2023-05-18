@@ -1,0 +1,39 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI"
+    x:Class="TalkingStories.DetailsPage"
+    d:DataContext="{d:DesignData SampleData/MainViewModelSampleData.xaml}"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768" 
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait" 
+    shell:SystemTray.IsVisible="false">
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton Click="Play_Click" IconUri="transport.play.png" Text="Read"/>
+            <shell:ApplicationBarIconButton Click="Email_Click" IconUri="feature.email.png" Text="Email story"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+    <!--Data context is set to sample data above and first item in sample data collection below and LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent" d:DataContext="{Binding Items[0]}">
+        <phone:WebBrowser x:Name="MyBrowser" HorizontalAlignment="Left" VerticalAlignment="Top" Height="569" Width="480" Margin="0,80,0,0"/>
+
+
+        <adduplex:AdControl Name ="AdDuplexAdControl" AppId="72551" xmlns:adduplex="clr-namespace:AdDuplex;assembly=AdDuplex.WindowsPhone" IsTest="False" Margin="0,-1,0,649"/>
+        <UI:AdControl ApplicationId="3a9e7001-b39c-472b-af5e-60ba3dd48b29" AdUnitId="10294134" HorizontalAlignment="Left" Height="80" VerticalAlignment="Top" Width="480"  Name="MSAdControlAd1" IsAutoRefreshEnabled="False" IsAutoCollapseEnabled="True"/>
+        <UI:AdControl ApplicationId="3a9e7001-b39c-472b-af5e-60ba3dd48b29" AdUnitId="10336225" HorizontalAlignment="Left" Height="80" Margin="0,648,0,0" VerticalAlignment="Top" Width="480"  Name="MSAdControlAd2" IsAutoRefreshEnabled="False" IsAutoCollapseEnabled="True"/>
+
+        <ad:InneractiveAd   xmlns:ad="clr-namespace:Inneractive.Ad;assembly=Inneractive.Ad"
+                AppID="SVAM_TalkingStories_WP"     AdType="IaAdType_Banner"     ReloadTime="60"
+            HorizontalAlignment="Left" Height="80" Margin="0,648,0,0" VerticalAlignment="Top" Width="480"   Name="InneractiveXamlAd"
+   />
+    </Grid>
+
+</phone:PhoneApplicationPage>

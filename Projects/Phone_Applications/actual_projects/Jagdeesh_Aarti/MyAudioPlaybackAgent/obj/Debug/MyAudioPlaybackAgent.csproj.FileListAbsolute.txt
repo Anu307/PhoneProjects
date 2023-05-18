@@ -1,0 +1,4 @@
+L:\Phone_Applications\Jagdeesh_Aarti\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll
+L:\Phone_Applications\Jagdeesh_Aarti\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.pdb
+L:\Phone_Applications\Jagdeesh_Aarti\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.dll
+L:\Phone_Applications\Jagdeesh_Aarti\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.pdb

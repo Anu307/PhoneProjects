@@ -1,0 +1,12 @@
+H:\projects\Hanuman_Chalisa\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll
+H:\projects\Hanuman_Chalisa\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.pdb
+H:\projects\Hanuman_Chalisa\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.dll
+H:\projects\Hanuman_Chalisa\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.pdb
+I:\Hanuman_Chalisa\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll
+I:\Hanuman_Chalisa\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.pdb
+I:\Hanuman_Chalisa\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.dll
+I:\Hanuman_Chalisa\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.pdb
+L:\Hanuman_Chalisa\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll
+L:\Hanuman_Chalisa\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.pdb
+L:\Hanuman_Chalisa\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.dll
+L:\Hanuman_Chalisa\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.pdb

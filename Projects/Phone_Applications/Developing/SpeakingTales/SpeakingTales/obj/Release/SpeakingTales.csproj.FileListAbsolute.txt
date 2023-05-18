@@ -1,0 +1,498 @@
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\ApplicationIcon.png
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\BabaYaga.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\BabaYaga.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Crimson Flower.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Crimson Flower.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Dance in a buffalo skull.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Dance in a buffalo skull.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Daughter and Stepdaughter.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Daughter and Stepdaughter.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Emelya and the Pike.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Emelya and the Pike.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Ermine and the Hunter.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Ermine and the Hunter.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Father Frost.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Father Frost.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Fenist the Bright Falcon.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Fenist the Bright Falcon.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Flying Ship.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Flying Ship.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Fox, Hare and Cock.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Fox, Hare and Cock.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Golden Fish.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Golden Fish.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Golden Mountain.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Golden Mountain.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Great Heart and the Three Tests.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Great Heart and the Three Tests.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\How Glooskap Made the Birds.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\How Glooskap Made the Birds.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\How Rabbit Deceived Fox.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\How Rabbit Deceived Fox.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\How Raven Brought Fire to the Indians.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\How Raven Brought Fire to the Indians.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the coyote.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the coyote.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the ducks.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the ducks.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the fawn.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the fawn.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the muskrat.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the muskrat.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the turtle.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the turtle.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi's blanket.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi's blanket.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Ivan Golik and the Serpents.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Ivan Golik and the Serpents.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Ivan the Fool and St Peter.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Ivan the Fool and St Peter.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Ivan Tsarevitch and the Grey Wolf.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Ivan Tsarevitch and the Grey Wolf.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Ivanushka the Simpleton.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Ivanushka the Simpleton.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iya, the camp-eater.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Iya, the camp-eater.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Little Snow Girl.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Little Snow Girl.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Little Straw Bull.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Little Straw Bull.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Magic Ring.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Magic Ring.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Magic Wild Geese.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Magic Wild Geese.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Manstin, the rabbit.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Manstin, the rabbit.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Maria Morevna.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Maria Morevna.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Morozko.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Morozko.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Oh The Tsar of the Forest.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Oh The Tsar of the Forest.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Owl with the Great Head and Eyes.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Owl with the Great Head and Eyes.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Pea-Roll.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Pea-Roll.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Rabbit and the Grain Buyers.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Rabbit and the Grain Buyers.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Rabbit and the Indian Chief.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Rabbit and the Indian Chief.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Rabbit and the Moon.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Rabbit and the Moon.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Rainbow and the Autumn Leaves.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Rainbow and the Autumn Leaves.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Sadko.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Sadko.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Saint Nicholas and the Children.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Saint Nicholas and the Children.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Shooting of the red eagle.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Shooting of the red eagle.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Silver Hoof.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Silver Hoof.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Sirko.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Sirko.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Sister Alyonushka and Brother Ivanushka.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Sister Alyonushka and Brother Ivanushka.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Sister Fox and Brother Wolf.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Sister Fox and Brother Wolf.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Sivka Burka.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Sivka Burka.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\SnowMaiden.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\SnowMaiden.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Sparrow's Search for the Rain.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Sparrow's Search for the Rain.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Stone Flower.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Stone Flower.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Teremok (Little Hut).htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Teremok (Little Hut).txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Teryosha.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Teryosha.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Apples of Youth and the Living.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Apples of Youth and the Living.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The badger and the bear.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The badger and the bear.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy and the Dragon.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy and the Dragon.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy in the Land of Shadows.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy in the Land of Shadows.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy of the Red Twilight Sky.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy of the Red Twilight Sky.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy who Overcame the Giants.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy who Overcame the Giants.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy who was Called Thick-head.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy who was Called Thick-head.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy who was Saved by Thoughts.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy who was Saved by Thoughts.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Cat and the Rooster.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Cat and the Rooster.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Children with One Eye.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Children with One Eye.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Cruel Stepmother.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Cruel Stepmother.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The death of Koshchei the Deathless.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The death of Koshchei the Deathless.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Fall of the Spider Man.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Fall of the Spider Man.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Fire-Bird and Princess Vassilissa.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Fire-Bird and Princess Vassilissa.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Fly's Castle.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Fly's Castle.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Giant with the Grey Feathers.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Giant with the Grey Feathers.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Girl who Always Cried.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Girl who Always Cried.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Golden Hair.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Golden Hair.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Golden Slipper.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Golden Slipper.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Iron Wolf.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Iron Wolf.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Magic Egg.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Magic Egg.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Old Dog.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Old Dog.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Origin of the Mole.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Origin of the Mole.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Princess Frog.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Princess Frog.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Serpent Wife.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Serpent Wife.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Serpent-Tsarevich and His Two Wives.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Serpent-Tsarevich and His Two Wives.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Sparrow and the Bush.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Sparrow and the Bush.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Ivan and the Daughter of the Sun.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Ivan and the Daughter of the Sun.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Little Tsar Novishny.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Little Tsar Novishny.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of the Forty First Brother.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of the Forty First Brother.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of the Unlucky Days.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of the Unlucky Days.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of the Wind.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of the Wind.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Tremsin.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Tremsin.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Unlucky Daniel.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Unlucky Daniel.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Straw Ox.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Straw Ox.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Three Brothers.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Three Brothers.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The toad and the boy.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The toad and the boy.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Tobacco Fairy from the Blue Hills.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Tobacco Fairy from the Blue Hills.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The tree-bound.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The tree-bound.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Tsar and the Angel.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Tsar and the Angel.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Two Princes.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Two Princes.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Ungrateful Children and the Old Father.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Ungrateful Children and the Old Father.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Vampire and St Michael.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Vampire and St Michael.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Voices at the Window.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Voices at the Window.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The warlike seven.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The warlike seven.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Youth and the Dog-Dance.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Youth and the Dog-Dance.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Youth and the Dog.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\The Youth and the Dog.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Twelve Months.htm
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\files\Twelve Months.txt
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\Background.png
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\SpeakingTales.dll.config
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\SpeakingTales.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\SpeakingTales.pdb
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\AppManifest.xaml
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\Properties\WMAppManifest.xml
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\SpeakingTales_Release_AnyCPU.xap
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\AdDuplex.WindowsPhone.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\Microsoft.Advertising.Mobile.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\microsoft.advertising.mobile.ui.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\Microsoft.Phone.Controls.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\Microsoft.Advertising.Mobile.xml
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\microsoft.advertising.mobile.ui.xml
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\obj\Release\App.g.cs
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\obj\Release\DetailsPage.g.cs
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\obj\Release\MainPage.g.cs
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\obj\Release\SpeakingTales.g.resources
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\obj\Release\SpeakingTales.dll
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\obj\Release\SpeakingTales.pdb
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\obj\Release\XapCacheFile.xml
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\obj\Release\SpeakingTales.csprojResolveAssemblyReference.cache
+L:\Phone_Applications\Under_Development\SpeakingTales\SpeakingTales\Bin\Release\Inneractive.Ad.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\ApplicationIcon.png
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\BabaYaga.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\BabaYaga.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Crimson Flower.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Crimson Flower.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Dance in a buffalo skull.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Dance in a buffalo skull.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Daughter and Stepdaughter.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Daughter and Stepdaughter.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Emelya and the Pike.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Emelya and the Pike.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Ermine and the Hunter.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Ermine and the Hunter.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Father Frost.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Father Frost.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Fenist the Bright Falcon.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Fenist the Bright Falcon.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Flying Ship.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Flying Ship.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Fox, Hare and Cock.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Fox, Hare and Cock.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Golden Fish.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Golden Fish.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Golden Mountain.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Golden Mountain.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Great Heart and the Three Tests.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Great Heart and the Three Tests.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\How Glooskap Made the Birds.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\How Glooskap Made the Birds.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\How Rabbit Deceived Fox.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\How Rabbit Deceived Fox.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\How Raven Brought Fire to the Indians.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\How Raven Brought Fire to the Indians.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the coyote.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the coyote.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the ducks.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the ducks.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the fawn.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the fawn.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the muskrat.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the muskrat.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the turtle.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi and the turtle.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi's blanket.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iktomi's blanket.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Ivan Golik and the Serpents.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Ivan Golik and the Serpents.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Ivan the Fool and St Peter.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Ivan the Fool and St Peter.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Ivan Tsarevitch and the Grey Wolf.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Ivan Tsarevitch and the Grey Wolf.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Ivanushka the Simpleton.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Ivanushka the Simpleton.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iya, the camp-eater.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Iya, the camp-eater.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Little Snow Girl.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Little Snow Girl.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Little Straw Bull.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Little Straw Bull.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Magic Ring.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Magic Ring.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Magic Wild Geese.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Magic Wild Geese.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Manstin, the rabbit.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Manstin, the rabbit.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Maria Morevna.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Maria Morevna.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Morozko.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Morozko.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Oh The Tsar of the Forest.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Oh The Tsar of the Forest.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Owl with the Great Head and Eyes.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Owl with the Great Head and Eyes.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Pea-Roll.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Pea-Roll.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Rabbit and the Grain Buyers.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Rabbit and the Grain Buyers.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Rabbit and the Indian Chief.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Rabbit and the Indian Chief.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Rabbit and the Moon.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Rabbit and the Moon.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Rainbow and the Autumn Leaves.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Rainbow and the Autumn Leaves.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Sadko.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Sadko.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Saint Nicholas and the Children.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Saint Nicholas and the Children.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Shooting of the red eagle.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Shooting of the red eagle.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Silver Hoof.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Silver Hoof.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Sirko.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Sirko.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Sister Alyonushka and Brother Ivanushka.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Sister Alyonushka and Brother Ivanushka.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Sister Fox and Brother Wolf.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Sister Fox and Brother Wolf.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Sivka Burka.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Sivka Burka.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\SnowMaiden.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\SnowMaiden.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Sparrow's Search for the Rain.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Sparrow's Search for the Rain.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Stone Flower.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Stone Flower.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Teremok (Little Hut).htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Teremok (Little Hut).txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Teryosha.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Teryosha.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Apples of Youth and the Living.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Apples of Youth and the Living.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The badger and the bear.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The badger and the bear.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy and the Dragon.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy and the Dragon.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy in the Land of Shadows.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy in the Land of Shadows.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy of the Red Twilight Sky.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy of the Red Twilight Sky.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy who Overcame the Giants.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy who Overcame the Giants.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy who was Called Thick-head.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy who was Called Thick-head.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy who was Saved by Thoughts.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Boy who was Saved by Thoughts.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Cat and the Rooster.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Cat and the Rooster.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Children with One Eye.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Children with One Eye.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Cruel Stepmother.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Cruel Stepmother.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The death of Koshchei the Deathless.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The death of Koshchei the Deathless.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Fall of the Spider Man.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Fall of the Spider Man.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Fire-Bird and Princess Vassilissa.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Fire-Bird and Princess Vassilissa.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Fly's Castle.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Fly's Castle.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Giant with the Grey Feathers.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Giant with the Grey Feathers.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Girl who Always Cried.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Girl who Always Cried.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Golden Hair.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Golden Hair.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Golden Slipper.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Golden Slipper.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Iron Wolf.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Iron Wolf.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Magic Egg.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Magic Egg.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Old Dog.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Old Dog.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Origin of the Mole.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Origin of the Mole.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Princess Frog.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Princess Frog.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Serpent Wife.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Serpent Wife.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Serpent-Tsarevich and His Two Wives.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Serpent-Tsarevich and His Two Wives.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Sparrow and the Bush.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Sparrow and the Bush.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Ivan and the Daughter of the Sun.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Ivan and the Daughter of the Sun.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Little Tsar Novishny.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Little Tsar Novishny.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of the Forty First Brother.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of the Forty First Brother.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of the Unlucky Days.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of the Unlucky Days.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of the Wind.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of the Wind.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Tremsin.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Tremsin.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Unlucky Daniel.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Story of Unlucky Daniel.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Straw Ox.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Straw Ox.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Three Brothers.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Three Brothers.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The toad and the boy.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The toad and the boy.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Tobacco Fairy from the Blue Hills.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Tobacco Fairy from the Blue Hills.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The tree-bound.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The tree-bound.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Tsar and the Angel.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Tsar and the Angel.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Two Princes.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Two Princes.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Ungrateful Children and the Old Father.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Ungrateful Children and the Old Father.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Vampire and St Michael.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Vampire and St Michael.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Voices at the Window.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Voices at the Window.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The warlike seven.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The warlike seven.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Youth and the Dog-Dance.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Youth and the Dog-Dance.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Youth and the Dog.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\The Youth and the Dog.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Twelve Months.htm
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\files\Twelve Months.txt
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\Background.png
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\SpeakingTales.dll.config
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\SpeakingTales.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\SpeakingTales.pdb
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\AppManifest.xaml
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\Properties\WMAppManifest.xml
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\SpeakingTales_Release_AnyCPU.xap
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\AdDuplex.WindowsPhone.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\Inneractive.Ad.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\Microsoft.Advertising.Mobile.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\microsoft.advertising.mobile.ui.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\Microsoft.Phone.Controls.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\Microsoft.Advertising.Mobile.xml
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\microsoft.advertising.mobile.ui.xml
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\obj\Release\SpeakingTales.csprojResolveAssemblyReference.cache
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\obj\Release\App.g.cs
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\obj\Release\DetailsPage.g.cs
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\obj\Release\MainPage.g.cs
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\obj\Release\SpeakingTales.g.resources
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\obj\Release\SpeakingTales.dll
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\obj\Release\SpeakingTales.pdb
+L:\Phone_Applications\actual_projects\SpeakingTales\SpeakingTales\obj\Release\XapCacheFile.xml

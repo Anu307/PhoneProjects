@@ -1,0 +1,8 @@
+L:\Phone_Applications\Ek_Omkar\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll
+L:\Phone_Applications\Ek_Omkar\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.pdb
+L:\Phone_Applications\Ek_Omkar\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.dll
+L:\Phone_Applications\Ek_Omkar\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.pdb
+L:\Phone_Applications\Under_development\SriSathyaSaiBaba\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll
+L:\Phone_Applications\Under_development\SriSathyaSaiBaba\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.pdb
+L:\Phone_Applications\Under_development\SriSathyaSaiBaba\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.dll
+L:\Phone_Applications\Under_development\SriSathyaSaiBaba\MyAudioPlaybackAgent\obj\Debug\MyAudioPlaybackAgent.pdb

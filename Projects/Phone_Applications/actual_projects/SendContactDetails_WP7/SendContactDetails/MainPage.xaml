@@ -1,0 +1,151 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:UI="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI" 
+    x:Class="SendContactDetails.MainPage" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768" 
+    d:DataContext="{d:DesignData SampleData/MainViewModelSampleData.xaml}"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <controls:Pivot x:Name="MyPivot" Title="Send Contact Details">
+            <!--Pivot item one-->
+            <controls:PivotItem Header="Contact">
+                <StackPanel Height="Auto" Width="Auto" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" >
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+
+                        <TextBox Grid.Row="0" Grid.ColumnSpan="2" x:Name="contactFilterString" />
+                        <RadioButton Grid.Row="1" Grid.Column="0" Checked="FilterChange" x:Name="name" Content="name" />
+                        <RadioButton Grid.Row="1" Grid.Column="1" Checked="FilterChange" x:Name="phone" Content="phone"/>
+                        <RadioButton Grid.Row="2" Grid.Column="0" Checked="FilterChange" x:Name="email" Content="email"/>
+                        <Button Grid.Row="2" Grid.Column="1" Content="search" Click="SearchContacts_Click" />
+                    </Grid>
+
+                    <TextBlock x:Name="ContactResultsLabel" Text="Search for contacts" TextWrapping="Wrap" Margin="12,0,0,0" />
+
+                    <ListBox x:Name="ContactResultsData" ItemsSource="{Binding}" Tap="ContactResultsData_Tap" Height="300" Margin="24,0,0,0" >
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock x:Name="ContactResults" Text="{Binding DisplayName, Mode=OneWay}" FontSize="{StaticResource PhoneFontSizeExtraLarge}" Margin="18,8,0,0" />
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                </StackPanel>
+            </controls:PivotItem>
+
+            <!--Pivot item two-->
+            <controls:PivotItem Header="Details" Margin="14,-10,10,20">
+                <!--Triple line list no text wrapping-->
+
+
+                <!--ContentPanel - place additional content here-->
+                <StackPanel x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0" RenderTransformOrigin="0.472,0.502">
+
+                    <TextBlock Text="{Binding DisplayName, Mode=OneWay}" Foreground="{StaticResource PhoneAccentBrush}" FontSize="{StaticResource PhoneFontSizeExtraLarge}" Margin="2,0,-2,0" />
+
+                    <Border BorderThickness="2" HorizontalAlignment="Left" BorderBrush="{StaticResource PhoneAccentBrush}" Margin="2,0,0,0" >
+                        <Image x:Name="Picture" Height="85" Width="85" HorizontalAlignment="Left" />
+                    </Border>
+                    <TextBlock Text="phone numbers" Margin="14,12,-2,0"/>
+                    <ListBox ItemsSource="{Binding PhoneNumbers}" Height="60"  Margin="38,0,-2,0">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Grid.Column="0" Text="{Binding Kind, Mode=OneWay}" />
+                                    <TextBlock Grid.Column="1" Text=":  " />
+                                    <TextBlock Grid.Column="2" Text="{Binding PhoneNumber, Mode=OneWay}" />
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                    <TextBlock Text="email addresses" Margin="14,12,-2,0" />
+                    <ListBox ItemsSource="{Binding EmailAddresses}" Height="60"  Margin="38,0,-2,0">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Grid.Column="0" Text="{Binding Kind, Mode=OneWay}" />
+                                    <TextBlock Grid.Column="1" Text=":  " />
+                                    <TextBlock Grid.Column="2" Text="{Binding EmailAddress, Mode=OneWay}" />
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                    <TextBlock Text="web sites" Margin="14,12,-2,0" />
+                    <ListBox ItemsSource="{Binding Websites}" Height="60"  Margin="38,0,-2,0" />
+
+                    <TextBlock Text="company information" Margin="14,12,-2,0" />
+                    <ListBox ItemsSource="{Binding Companies}" Height="60"  Margin="38,0,-2,0">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Grid.Column="0" Text="{Binding CompanyName, Mode=OneWay}" />
+                                    <TextBlock Grid.Column="1" Text=":  " />
+                                    <TextBlock Grid.Column="2" Text="{Binding JobTitle, Mode=OneWay}" />
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                </StackPanel>
+                
+            </controls:PivotItem>
+
+            <controls:PivotItem Header="Send" Margin="14,-17,10,27">
+                <Grid Margin="10,43,-10,-43">
+                    <TextBox x:Name="DetailsText" HorizontalAlignment="Left" Height="288" TextWrapping="Wrap" VerticalAlignment="Top" Width="456" Margin="0,-42,0,0" VerticalScrollBarVisibility="Auto"/>
+                    <Button Content="Phone:" HorizontalAlignment="Left" Height="71" VerticalAlignment="Top" Width="127" Margin="-11,241,0,0" Click="Button_Click_1"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,317,0,0" TextWrapping="Wrap" Text="Email:" VerticalAlignment="Top" Width="87" Height="45" FontSize="24"/>
+                    <TextBox x:Name="Emailid_text" HorizontalAlignment="Left" Height="72" Margin="102,305,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="354"/>
+                    <TextBox x:Name="Phone_text" HorizontalAlignment="Left" Height="72" Margin="102,241,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="354"/>
+                    <Button Content="Email" HorizontalAlignment="Left" Height="71" VerticalAlignment="Top" Width="133" Margin="-11,370,0,0" Click="Button_Click_2"/>
+                    <Button Content="SMS" HorizontalAlignment="Left" Height="71" VerticalAlignment="Top" Width="149" Margin="302,370,0,0" Click="Button_Click_3"/>
+                    <Button Content="Feedback" HorizontalAlignment="Left" Height="71" VerticalAlignment="Top" Width="198" Margin="267,473,-9,0" Click="Button_Click_4" />
+                    <UI:AdControl ApplicationId="85c85d75-a2ab-4b79-bfd7-a81d8347529d" AdUnitId="10151085" HorizontalAlignment="Left" Height="80" Margin="-24,535,0,0" VerticalAlignment="Top" Width="480"/>
+
+
+                </Grid>
+
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+
+</phone:PhoneApplicationPage>

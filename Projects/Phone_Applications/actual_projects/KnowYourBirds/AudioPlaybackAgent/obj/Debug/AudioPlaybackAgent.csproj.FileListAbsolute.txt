@@ -1,0 +1,5 @@
+I:\Phone_Applications\KnowYourBirds\AudioPlaybackAgent\Bin\Debug\AudioPlaybackAgent.dll
+I:\Phone_Applications\KnowYourBirds\AudioPlaybackAgent\Bin\Debug\AudioPlaybackAgent.pdb
+I:\Phone_Applications\KnowYourBirds\AudioPlaybackAgent\obj\Debug\AudioPlaybackAgent.csprojResolveAssemblyReference.cache
+I:\Phone_Applications\KnowYourBirds\AudioPlaybackAgent\obj\Debug\AudioPlaybackAgent.dll
+I:\Phone_Applications\KnowYourBirds\AudioPlaybackAgent\obj\Debug\AudioPlaybackAgent.pdb

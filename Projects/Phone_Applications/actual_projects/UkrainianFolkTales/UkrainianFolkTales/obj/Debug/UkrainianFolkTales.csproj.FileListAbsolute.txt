@@ -1,0 +1,92 @@
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\ApplicationIcon.png
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\Ivan the Fool and St Peter.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\Ivan the Fool and St Peter.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\Oh The Tsar of the Forest.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\Oh The Tsar of the Forest.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Golden Slipper.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Golden Slipper.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Iron Wolf.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Iron Wolf.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Magic Egg.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Magic Egg.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Old Dog.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Old Dog.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Origin of the Mole.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Origin of the Mole.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Serpent Wife.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Serpent Wife.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Serpent-Tsarevich and His Two Wives.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Serpent-Tsarevich and His Two Wives.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Sparrow and the Bush.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Sparrow and the Bush.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of Ivan and the Daughter of the Sun.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of Ivan and the Daughter of the Sun.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of Little Tsar Novishny.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of Little Tsar Novishny.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of the Forty First Brother.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of the Forty First Brother.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of the Unlucky Days.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of the Unlucky Days.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of the Wind.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of the Wind.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of Tremsin.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of Tremsin.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of Unlucky Daniel.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Story of Unlucky Daniel.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Straw Ox.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Straw Ox.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Three Brothers.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Three Brothers.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Tsar and the Angel.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Tsar and the Angel.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Two Princes.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Two Princes.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Vampire and St Michael.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Vampire and St Michael.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Voices at the Window.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Voices at the Window.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\Background.png
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\UkrainianFolkTales.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\UkrainianFolkTales.pdb
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\AppManifest.xaml
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\Properties\WMAppManifest.xml
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\UkrainianFolkTales_Debug_AnyCPU.xap
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\Microsoft.Advertising.Mobile.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\microsoft.advertising.mobile.ui.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\Microsoft.Phone.Controls.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\Microsoft.Advertising.Mobile.xml
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\microsoft.advertising.mobile.ui.xml
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\obj\Debug\App.g.cs
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\obj\Debug\DetailsPage.g.cs
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\obj\Debug\MainPage.g.cs
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\obj\Debug\UkrainianFolkTales.g.resources
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\obj\Debug\UkrainianFolkTales.dll
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\obj\Debug\UkrainianFolkTales.pdb
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\obj\Debug\XapCacheFile.xml
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Ungrateful Children and the Old Father.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\The Ungrateful Children and the Old Father.txt
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\obj\Debug\UkrainianFolkTales.csprojResolveAssemblyReference.cache
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\Ivan Golik and the Serpents.htm
+L:\Phone_Applications\Under_development\UkrainianFolkTales\UkrainianFolkTales\Bin\Debug\files\Ivan Golik and the Serpents.txt

@@ -1,0 +1,32 @@
+﻿<local:MainViewModel 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:SpeakingFairyTales" 
+    SampleProperty="Sample Text Property Value">
+    
+    <local:MainViewModel.Items>
+        <local:ItemViewModel LineOne="First SpeakingFairyTales" />
+        <local:ItemViewModel LineOne="Calendar"/>
+        <local:ItemViewModel LineOne="The Legend"/>
+        <local:ItemViewModel LineOne="Tradition" />
+        <local:ItemViewModel LineOne="Origin" />
+        <local:ItemViewModel LineOne="Social Significance" />
+        <local:ItemViewModel LineOne="Regional Significance" />
+        <local:ItemViewModel LineOne="Fast Tradition" />
+        <local:ItemViewModel LineOne="Gifting Tradition"/>
+        <local:ItemViewModel LineOne="Rituals"/>
+        <local:ItemViewModel LineOne="Celebrations"/>
+        <local:ItemViewModel LineOne="Puja Process" />
+        <local:ItemViewModel LineOne="Vrat Vidhi" />
+        <local:ItemViewModel LineOne="Vrat Katha" />
+        <local:ItemViewModel LineOne="Vrat Story" />
+        <local:ItemViewModel LineOne="Vrat Items" />
+        <local:ItemViewModel LineOne="Thali Decoration" />
+        <local:ItemViewModel LineOne="Henna Tradition" />
+        <local:ItemViewModel LineOne="How to apply Henna" />
+        <local:ItemViewModel LineOne="Henna Designs" />
+        <local:ItemViewModel LineOne="Recipes"/>
+        <local:ItemViewModel LineOne="Songs"/>
+    </local:MainViewModel.Items>
+    
+</local:MainViewModel>

@@ -1,0 +1,30 @@
+﻿<xapCache source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\Bin\Debug\Ek_Omkar_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="8/30/2013 12:07:47 PM">
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\obj\Debug\Ek_Omkar.dll" archivePath="Ek_Omkar.dll" lastWriteTime="8/30/2013 12:07:45 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="8/22/2013 5:13:02 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="8/22/2013 5:13:02 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="8/22/2013 5:13:02 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="8/22/2013 5:13:02 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="8/22/2013 5:13:02 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\basecircle.png" archivePath="basecircle.png" lastWriteTime="8/22/2013 5:14:35 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\ekonkar_1.png" archivePath="ekonkar_1.png" lastWriteTime="8/30/2013 10:16:43 AM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\ekonkar_2.png" archivePath="ekonkar_2.png" lastWriteTime="8/30/2013 10:17:04 AM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\ekonkar_3.png" archivePath="ekonkar_3.png" lastWriteTime="8/30/2013 10:18:25 AM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\ekonkar_4.png" archivePath="ekonkar_4.png" lastWriteTime="8/30/2013 10:19:00 AM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\ekonkar_5.png" archivePath="ekonkar_5.png" lastWriteTime="8/30/2013 10:20:25 AM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\ekonkar_6.png" archivePath="ekonkar_6.png" lastWriteTime="8/30/2013 10:22:21 AM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\Ek_omkar.wma" archivePath="Ek_omkar.wma" lastWriteTime="8/30/2013 9:46:28 AM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\feature.email.png" archivePath="feature.email.png" lastWriteTime="8/22/2013 5:14:36 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\stop.png" archivePath="stop.png" lastWriteTime="8/22/2013 5:14:36 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\transport.pause.png" archivePath="transport.pause.png" lastWriteTime="8/22/2013 5:14:37 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\transport.play.png" archivePath="transport.play.png" lastWriteTime="8/22/2013 5:14:38 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="8/30/2013 12:03:07 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="9/10/2012 9:43:36 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\microsoft.advertising.mobile.ui.dll" archivePath="microsoft.advertising.mobile.ui.dll" lastWriteTime="9/10/2012 9:43:36 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="3/3/2013 7:40:38 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\MyAudioPlaybackAgent\Bin\Debug\MyAudioPlaybackAgent.dll" archivePath="MyAudioPlaybackAgent.dll" lastWriteTime="8/30/2013 12:03:06 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.xml" archivePath="Microsoft.Advertising.Mobile.xml" lastWriteTime="7/20/2012 7:57:18 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\microsoft.advertising.mobile.ui.xml" archivePath="microsoft.advertising.mobile.ui.xml" lastWriteTime="7/20/2012 7:57:18 AM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="8/30/2013 10:19:17 AM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="8/30/2013 12:07:45 PM" />
+  <file source="L:\Phone_Applications\Ek_Omkar\Ek_Omkar\Background.png" archivePath="Background.png" lastWriteTime="8/30/2013 10:52:56 AM" />
+</xapCache>

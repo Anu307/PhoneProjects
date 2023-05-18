@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EAC54875-0F06-4DF5-BD1A-ADFBD8212C38}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MeerTaqiMeer</RootNamespace>
+    <AssemblyName>MeerTaqiMeer</AssemblyName>
+    <TargetFrameworkIdentifier>WindowsPhone</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
+    <SilverlightVersion>
+    </SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>MeerTaqiMeer_$(Configuration)_$(Platform).xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>MeerTaqiMeer.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <MinimumVisualStudioVersion>12.0</MinimumVisualStudioVersion>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <TargetFrameworkProfile />
+    <DefaultLanguage>en-US</DefaultLanguage>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|ARM' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\ARM\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|ARM' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\ARM\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget />
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AppSettings.cs" />
+    <Compile Include="LocalizedStrings.cs" />
+    <Compile Include="DetailsPage.xaml.cs">
+      <DependentUpon>DetailsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page1.xaml.cs">
+      <DependentUpon>Page1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\AppResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AppResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\ItemViewModel.cs" />
+    <Compile Include="ViewModels\MainViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="DetailsPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <DesignData Include="SampleData\MainViewModelSampleData.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </DesignData>
+    <Page Include="Page1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="packages.config" />
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\AlignmentGrid.png" />
+    <Content Include="Assets\ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\BadgeLogo.png" />
+    <Content Include="Assets\Logo.png" />
+    <Content Include="Assets\SplashScreen.png" />
+    <Content Include="Assets\SquareTile150x150.png" />
+    <Content Include="Assets\SquareTile71x71.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\Tiles\FlipCycleTileMedium.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="back.png" />
+    <Content Include="background.png" />
+    <Content Include="feature.email.png" />
+    <Content Include="feedback.png" />
+    <Content Include="files\aboutMeerTaqiMeer.htm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="files\MeerTaqiMeer1.htm" />
+    <Content Include="files\MeerTaqiMeer1.txt" />
+    <Content Include="files\MeerTaqiMeer10.htm" />
+    <Content Include="files\MeerTaqiMeer10.txt" />
+    <Content Include="files\MeerTaqiMeer11.htm" />
+    <Content Include="files\MeerTaqiMeer11.txt" />
+    <Content Include="files\MeerTaqiMeer12.htm" />
+    <Content Include="files\MeerTaqiMeer12.txt" />
+    <Content Include="files\MeerTaqiMeer13.htm" />
+    <Content Include="files\MeerTaqiMeer13.txt" />
+    <Content Include="files\MeerTaqiMeer14.htm" />
+    <Content Include="files\MeerTaqiMeer14.txt" />
+    <Content Include="files\MeerTaqiMeer15.htm" />
+    <Content Include="files\MeerTaqiMeer15.txt" />
+    <Content Include="files\MeerTaqiMeer16.htm" />
+    <Content Include="files\MeerTaqiMeer16.txt" />
+    <Content Include="files\MeerTaqiMeer17.htm" />
+    <Content Include="files\MeerTaqiMeer17.txt" />
+    <Content Include="files\MeerTaqiMeer18.htm" />
+    <Content Include="files\MeerTaqiMeer18.txt" />
+    <Content Include="files\MeerTaqiMeer19.htm" />
+    <Content Include="files\MeerTaqiMeer19.txt" />
+    <Content Include="files\MeerTaqiMeer2.htm" />
+    <Content Include="files\MeerTaqiMeer2.txt" />
+    <Content Include="files\MeerTaqiMeer20.htm" />
+    <Content Include="files\MeerTaqiMeer20.txt" />
+    <Content Include="files\MeerTaqiMeer21.htm" />
+    <Content Include="files\MeerTaqiMeer21.txt" />
+    <Content Include="files\MeerTaqiMeer22.htm" />
+    <Content Include="files\MeerTaqiMeer22.txt" />
+    <Content Include="files\MeerTaqiMeer23.htm" />
+    <Content Include="files\MeerTaqiMeer23.txt" />
+    <Content Include="files\MeerTaqiMeer24.htm" />
+    <Content Include="files\MeerTaqiMeer24.txt" />
+    <Content Include="files\MeerTaqiMeer25.htm" />
+    <Content Include="files\MeerTaqiMeer25.txt" />
+    <Content Include="files\MeerTaqiMeer26.htm" />
+    <Content Include="files\MeerTaqiMeer26.txt" />
+    <Content Include="files\MeerTaqiMeer27.htm" />
+    <Content Include="files\MeerTaqiMeer27.txt" />
+    <Content Include="files\MeerTaqiMeer28.htm" />
+    <Content Include="files\MeerTaqiMeer28.txt" />
+    <Content Include="files\MeerTaqiMeer29.htm" />
+    <Content Include="files\MeerTaqiMeer29.txt" />
+    <Content Include="files\MeerTaqiMeer3.htm" />
+    <Content Include="files\MeerTaqiMeer3.txt" />
+    <Content Include="files\MeerTaqiMeer30.htm" />
+    <Content Include="files\MeerTaqiMeer30.txt" />
+    <Content Include="files\MeerTaqiMeer31.htm" />
+    <Content Include="files\MeerTaqiMeer31.txt" />
+    <Content Include="files\MeerTaqiMeer32.htm" />
+    <Content Include="files\MeerTaqiMeer32.txt" />
+    <Content Include="files\MeerTaqiMeer33.htm" />
+    <Content Include="files\MeerTaqiMeer33.txt" />
+    <Content Include="files\MeerTaqiMeer34.htm" />
+    <Content Include="files\MeerTaqiMeer34.txt" />
+    <Content Include="files\MeerTaqiMeer35.htm" />
+    <Content Include="files\MeerTaqiMeer35.txt" />
+    <Content Include="files\MeerTaqiMeer36.htm" />
+    <Content Include="files\MeerTaqiMeer36.txt" />
+    <Content Include="files\MeerTaqiMeer37.htm" />
+    <Content Include="files\MeerTaqiMeer37.txt" />
+    <Content Include="files\MeerTaqiMeer38.htm" />
+    <Content Include="files\MeerTaqiMeer38.txt" />
+    <Content Include="files\MeerTaqiMeer39.htm" />
+    <Content Include="files\MeerTaqiMeer39.txt" />
+    <Content Include="files\MeerTaqiMeer4.htm" />
+    <Content Include="files\MeerTaqiMeer4.txt" />
+    <Content Include="files\MeerTaqiMeer40.htm" />
+    <Content Include="files\MeerTaqiMeer40.txt" />
+    <Content Include="files\MeerTaqiMeer41.htm" />
+    <Content Include="files\MeerTaqiMeer41.txt" />
+    <Content Include="files\MeerTaqiMeer42.htm" />
+    <Content Include="files\MeerTaqiMeer42.txt" />
+    <Content Include="files\MeerTaqiMeer43.htm" />
+    <Content Include="files\MeerTaqiMeer43.txt" />
+    <Content Include="files\MeerTaqiMeer44.htm" />
+    <Content Include="files\MeerTaqiMeer44.txt" />
+    <Content Include="files\MeerTaqiMeer45.htm" />
+    <Content Include="files\MeerTaqiMeer45.txt" />
+    <Content Include="files\MeerTaqiMeer5.htm" />
+    <Content Include="files\MeerTaqiMeer5.txt" />
+    <Content Include="files\MeerTaqiMeer6.htm" />
+    <Content Include="files\MeerTaqiMeer6.txt" />
+    <Content Include="files\MeerTaqiMeer7.htm" />
+    <Content Include="files\MeerTaqiMeer7.txt" />
+    <Content Include="files\MeerTaqiMeer8.htm" />
+    <Content Include="files\MeerTaqiMeer8.txt" />
+    <Content Include="files\MeerTaqiMeer9.htm" />
+    <Content Include="files\MeerTaqiMeer9.txt" />
+    <Content Include="folder.png" />
+    <Content Include="like.png" />
+    <Content Include="next.png" />
+    <Content Include="pic2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\AppResources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="AdDuplex.WindowsPhone">
+      <HintPath>..\packages\AdDuplexWP8.2.8.0.4\lib\wp8\AdDuplex.WindowsPhone.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Advertising.Mobile, Version=6.2.960.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Advertising.Mobile.UI, Version=6.2.960.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Phone.Controls.Toolkit">
+      <HintPath>..\..\Silverlight for Windows Phone Toolkit Source Code\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

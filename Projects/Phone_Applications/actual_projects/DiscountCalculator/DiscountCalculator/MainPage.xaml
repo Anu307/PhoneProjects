@@ -1,0 +1,61 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI" 
+    x:Class="DiscountCalculator.MainPage"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton Click="Email_Click" IconUri="feature.email.png" Text="email" IsEnabled="False"/>
+            <shell:ApplicationBarIconButton Click="SMS_Click" IconUri="image.png" Text="SMS" IsEnabled="False"/>
+            <shell:ApplicationBarIconButton Click="Feedback_Click" IconUri="questionmark.png" Text="Feedback"/>
+
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="Discount Calculator" Style="{StaticResource PhoneTextNormalStyle}" Height="51" FontSize="24"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Margin="14,47,10,49" Grid.RowSpan="2">
+            <TextBox x:Name="Price" HorizontalAlignment="Left" Height="72" Margin="206,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219" InputScope="Number" KeyUp="Calculate" Text=""/>
+            <TextBox x:Name="Discount" HorizontalAlignment="Left" Height="72" Margin="206,71,0,0" TextWrapping="Wrap" Text="10" VerticalAlignment="Top" Width="177" InputScope="Number" TextAlignment="Right"  KeyUp="Calculate"/>
+            <TextBox x:Name="SDiscount" HorizontalAlignment="Left" Height="72" Margin="206,133,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="177" InputScope="Number" TextAlignment="Right" KeyUp="Calculate"/>
+            <TextBlock HorizontalAlignment="Left" Margin="10,29,0,0" TextWrapping="Wrap" Text="Tag Price" VerticalAlignment="Top" Width="188"/>
+            <TextBlock HorizontalAlignment="Left" Margin="9,91,0,0" TextWrapping="Wrap" Text="Discount" VerticalAlignment="Top" Width="188"/>
+            <TextBlock HorizontalAlignment="Left" Margin="9,153,0,0" TextWrapping="Wrap" Text="Secondary Discount" VerticalAlignment="Top" Width="188"/>
+            <TextBox HorizontalAlignment="Left" Height="72" Margin="359,71,0,0" TextWrapping="Wrap" Text="%" VerticalAlignment="Top" Width="63" IsReadOnly="True"/>
+            <TextBox HorizontalAlignment="Left" Height="72" Margin="359,133,0,0" TextWrapping="Wrap" Text="%" VerticalAlignment="Top" Width="63" IsReadOnly="True"/>
+            <TextBox x:Name="FinalPrice" HorizontalAlignment="Left" Height="72" Margin="127,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="319" TextAlignment="Right" InputScope="Number"/>
+            <TextBlock HorizontalAlignment="Left" Margin="9,210,0,0" TextWrapping="Wrap" Text="Final Price" VerticalAlignment="Top" Width="188"/>
+            <Button Content="Clear All" HorizontalAlignment="Left" Margin="218,308,0,0" VerticalAlignment="Top" Width="203" Click="Clear_Click"/>
+            <TextBlock HorizontalAlignment="Left" Margin="9,372,0,0" TextWrapping="Wrap" Text="Case 1: Simply put the tag price, discount and secondary discount if any and press calculate to get the final amount that you would have to pay." VerticalAlignment="Top" Width="437" Height="88"/>
+            <Button Content="Calculate" HorizontalAlignment="Left" Margin="7,308,0,0" VerticalAlignment="Top" Width="203" Click="Button_Click"/>
+            <TextBox x:Name="Savings" HorizontalAlignment="Left" Height="72" Margin="127,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="319" TextAlignment="Right" InputScope="Number" IsReadOnly="True"/>
+            <TextBlock HorizontalAlignment="Left" Margin="9,267,0,0" TextWrapping="Wrap" Text="Savings" VerticalAlignment="Top" Width="188"/>
+            <TextBlock HorizontalAlignment="Left" Margin="9,452,0,0" TextWrapping="Wrap" Text="Case 2: Put the tag price and the final price and press calculate to see the discount that you got." VerticalAlignment="Top" Width="437" Height="83"/>
+            <TextBlock HorizontalAlignment="Left" Margin="9,501,0,75" TextWrapping="Wrap" Text="Note: If you add both discount and final price, we calculate the discount %age" Width="437" FontWeight="Bold" FontSize="20" TextAlignment="Left" FontFamily="Segoe WP Black"/>
+            <TextBlock HorizontalAlignment="Left" Margin="5,643,0,-67" TextWrapping="Wrap" Text="SMS or email the details using the below buttons" Width="437" FontSize="20" TextAlignment="Left" FontFamily="Segoe WP"/>
+        </Grid>
+        <UI:AdControl ApplicationId="4961f0ce-6cf6-4eaf-9cbc-4188f8ed142a" AdUnitId="10173352" HorizontalAlignment="Left" Height="80" Margin="0,508,0,0" VerticalAlignment="Top" Width="480" Grid.Row="1"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

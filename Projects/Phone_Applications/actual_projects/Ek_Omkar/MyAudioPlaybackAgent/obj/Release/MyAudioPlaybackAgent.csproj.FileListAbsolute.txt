@@ -1,0 +1,12 @@
+L:\Phone_Applications\Ek_Omkar\MyAudioPlaybackAgent\Bin\Release\MyAudioPlaybackAgent.dll
+L:\Phone_Applications\Ek_Omkar\MyAudioPlaybackAgent\Bin\Release\MyAudioPlaybackAgent.pdb
+L:\Phone_Applications\Ek_Omkar\MyAudioPlaybackAgent\obj\Release\MyAudioPlaybackAgent.dll
+L:\Phone_Applications\Ek_Omkar\MyAudioPlaybackAgent\obj\Release\MyAudioPlaybackAgent.pdb
+I:\Phone_Applications\actual_projects\Ek_Omkar\MyAudioPlaybackAgent\Bin\Release\MyAudioPlaybackAgent.dll
+I:\Phone_Applications\actual_projects\Ek_Omkar\MyAudioPlaybackAgent\Bin\Release\MyAudioPlaybackAgent.pdb
+I:\Phone_Applications\actual_projects\Ek_Omkar\MyAudioPlaybackAgent\obj\Release\MyAudioPlaybackAgent.dll
+I:\Phone_Applications\actual_projects\Ek_Omkar\MyAudioPlaybackAgent\obj\Release\MyAudioPlaybackAgent.pdb
+L:\Phone_Applications\actual_projects\Ek_Omkar\MyAudioPlaybackAgent\Bin\Release\MyAudioPlaybackAgent.dll
+L:\Phone_Applications\actual_projects\Ek_Omkar\MyAudioPlaybackAgent\Bin\Release\MyAudioPlaybackAgent.pdb
+L:\Phone_Applications\actual_projects\Ek_Omkar\MyAudioPlaybackAgent\obj\Release\MyAudioPlaybackAgent.dll
+L:\Phone_Applications\actual_projects\Ek_Omkar\MyAudioPlaybackAgent\obj\Release\MyAudioPlaybackAgent.pdb

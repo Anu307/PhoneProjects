@@ -1,0 +1,57 @@
+Sub Macro1()
+'
+' Macro1 Macro
+'
+'Dim Counter As Long, Source As Document, Target As Document
+ Dim Docname As Range
+ Dim str As String
+ Dim str2 As String
+  
+Dim i As Long
+ Set Source = ActiveDocument
+ Selection.HomeKey Unit:=wdStory
+ Pages = Source.BuiltInDocumentProperties(wdPropertyPages)
+ Counter = 0
+ While Counter < Pages
+     Counter = Counter + 1
+     Source.Bookmarks("\Section").Range.Cut
+     Set Target = Documents.Add
+     With Target
+         With .Range
+             .Paste
+           '  i = 1
+            ' .Paragraphs(i).LineSpacingRule = wdLineSpaceSingle
+                  ActiveDocument.Background.Fill.ForeColor.ObjectThemeColor = _
+        wdThemeColorAccent6
+    ActiveDocument.Background.Fill.ForeColor.TintAndShade = 0.6
+    ActiveDocument.Background.Fill.Visible = msoTrue
+    ActiveDocument.Background.Fill.Solid
+            
+             Set Docname = .Paragraphs(1).Range
+            'Docname = Docname + ".htm"
+            Docname.End = Docname.End - 1
+            
+            str2 = Docname.Text
+            
+            str = str2 + ".htm"
+        
+            
+             End With
+      ChangeFileOpenDirectory "C:\Users\anubhavm\Desktop\htms\"
+         .SaveAs FileName:=str, FileFormat:=wdFormatFilteredHTML
+         .Close
+     End With
+ Wend
+End Sub
+Sub Macro2()
+'
+' Macro2 Macro
+'
+'
+    ActiveDocument.Background.Fill.ForeColor.ObjectThemeColor = _
+        wdThemeColorAccent6
+    ActiveDocument.Background.Fill.ForeColor.TintAndShade = 0.6
+    ActiveDocument.Background.Fill.Visible = msoTrue
+    ActiveDocument.Background.Fill.Solid
+End Sub
+

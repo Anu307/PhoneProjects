@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANUBHAV-16</Machine>
+    <WindowsUser>anubhavm</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>eac54875-0f06-4df5-bd1a-adfbd8212c38</PackageIdentityName>
+    <IntermediateOutputPath>H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Bin\Release\MeerTaqiMeer.dll">
+      <PackagePath>MeerTaqiMeer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll">
+      <PackagePath>Microsoft.Phone.Controls.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\back.png">
+      <PackagePath>back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\background.png">
+      <PackagePath>background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\feature.email.png">
+      <PackagePath>feature.email.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\feedback.png">
+      <PackagePath>feedback.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\folder.png">
+      <PackagePath>folder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\like.png">
+      <PackagePath>like.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\next.png">
+      <PackagePath>next.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\aboutMeerTaqiMeer.htm">
+      <PackagePath>files\aboutMeerTaqiMeer.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer1.htm">
+      <PackagePath>files\MeerTaqiMeer1.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer10.htm">
+      <PackagePath>files\MeerTaqiMeer10.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer11.htm">
+      <PackagePath>files\MeerTaqiMeer11.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer12.htm">
+      <PackagePath>files\MeerTaqiMeer12.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer13.htm">
+      <PackagePath>files\MeerTaqiMeer13.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer14.htm">
+      <PackagePath>files\MeerTaqiMeer14.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer15.htm">
+      <PackagePath>files\MeerTaqiMeer15.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer16.htm">
+      <PackagePath>files\MeerTaqiMeer16.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer17.htm">
+      <PackagePath>files\MeerTaqiMeer17.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer18.htm">
+      <PackagePath>files\MeerTaqiMeer18.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer19.htm">
+      <PackagePath>files\MeerTaqiMeer19.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer2.htm">
+      <PackagePath>files\MeerTaqiMeer2.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer20.htm">
+      <PackagePath>files\MeerTaqiMeer20.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer21.htm">
+      <PackagePath>files\MeerTaqiMeer21.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer22.htm">
+      <PackagePath>files\MeerTaqiMeer22.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer23.htm">
+      <PackagePath>files\MeerTaqiMeer23.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer24.htm">
+      <PackagePath>files\MeerTaqiMeer24.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer25.htm">
+      <PackagePath>files\MeerTaqiMeer25.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer26.htm">
+      <PackagePath>files\MeerTaqiMeer26.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer27.htm">
+      <PackagePath>files\MeerTaqiMeer27.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer28.htm">
+      <PackagePath>files\MeerTaqiMeer28.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer29.htm">
+      <PackagePath>files\MeerTaqiMeer29.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer3.htm">
+      <PackagePath>files\MeerTaqiMeer3.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer30.htm">
+      <PackagePath>files\MeerTaqiMeer30.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer31.htm">
+      <PackagePath>files\MeerTaqiMeer31.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer32.htm">
+      <PackagePath>files\MeerTaqiMeer32.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer33.htm">
+      <PackagePath>files\MeerTaqiMeer33.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer34.htm">
+      <PackagePath>files\MeerTaqiMeer34.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer35.htm">
+      <PackagePath>files\MeerTaqiMeer35.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer36.htm">
+      <PackagePath>files\MeerTaqiMeer36.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer37.htm">
+      <PackagePath>files\MeerTaqiMeer37.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer38.htm">
+      <PackagePath>files\MeerTaqiMeer38.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer39.htm">
+      <PackagePath>files\MeerTaqiMeer39.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer4.htm">
+      <PackagePath>files\MeerTaqiMeer4.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer40.htm">
+      <PackagePath>files\MeerTaqiMeer40.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer41.htm">
+      <PackagePath>files\MeerTaqiMeer41.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer42.htm">
+      <PackagePath>files\MeerTaqiMeer42.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer43.htm">
+      <PackagePath>files\MeerTaqiMeer43.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer44.htm">
+      <PackagePath>files\MeerTaqiMeer44.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer45.htm">
+      <PackagePath>files\MeerTaqiMeer45.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer5.htm">
+      <PackagePath>files\MeerTaqiMeer5.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer6.htm">
+      <PackagePath>files\MeerTaqiMeer6.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer7.htm">
+      <PackagePath>files\MeerTaqiMeer7.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer8.htm">
+      <PackagePath>files\MeerTaqiMeer8.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer9.htm">
+      <PackagePath>files\MeerTaqiMeer9.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer1.txt">
+      <PackagePath>files\MeerTaqiMeer1.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer10.txt">
+      <PackagePath>files\MeerTaqiMeer10.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer11.txt">
+      <PackagePath>files\MeerTaqiMeer11.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer12.txt">
+      <PackagePath>files\MeerTaqiMeer12.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer13.txt">
+      <PackagePath>files\MeerTaqiMeer13.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer14.txt">
+      <PackagePath>files\MeerTaqiMeer14.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer15.txt">
+      <PackagePath>files\MeerTaqiMeer15.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer16.txt">
+      <PackagePath>files\MeerTaqiMeer16.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer17.txt">
+      <PackagePath>files\MeerTaqiMeer17.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer18.txt">
+      <PackagePath>files\MeerTaqiMeer18.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer19.txt">
+      <PackagePath>files\MeerTaqiMeer19.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer2.txt">
+      <PackagePath>files\MeerTaqiMeer2.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer20.txt">
+      <PackagePath>files\MeerTaqiMeer20.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer21.txt">
+      <PackagePath>files\MeerTaqiMeer21.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer22.txt">
+      <PackagePath>files\MeerTaqiMeer22.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer23.txt">
+      <PackagePath>files\MeerTaqiMeer23.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer24.txt">
+      <PackagePath>files\MeerTaqiMeer24.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer25.txt">
+      <PackagePath>files\MeerTaqiMeer25.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer26.txt">
+      <PackagePath>files\MeerTaqiMeer26.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer27.txt">
+      <PackagePath>files\MeerTaqiMeer27.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer28.txt">
+      <PackagePath>files\MeerTaqiMeer28.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer29.txt">
+      <PackagePath>files\MeerTaqiMeer29.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer3.txt">
+      <PackagePath>files\MeerTaqiMeer3.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer30.txt">
+      <PackagePath>files\MeerTaqiMeer30.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer31.txt">
+      <PackagePath>files\MeerTaqiMeer31.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer32.txt">
+      <PackagePath>files\MeerTaqiMeer32.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer33.txt">
+      <PackagePath>files\MeerTaqiMeer33.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer34.txt">
+      <PackagePath>files\MeerTaqiMeer34.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer35.txt">
+      <PackagePath>files\MeerTaqiMeer35.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer36.txt">
+      <PackagePath>files\MeerTaqiMeer36.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer37.txt">
+      <PackagePath>files\MeerTaqiMeer37.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer38.txt">
+      <PackagePath>files\MeerTaqiMeer38.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer39.txt">
+      <PackagePath>files\MeerTaqiMeer39.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer4.txt">
+      <PackagePath>files\MeerTaqiMeer4.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer40.txt">
+      <PackagePath>files\MeerTaqiMeer40.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer41.txt">
+      <PackagePath>files\MeerTaqiMeer41.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer42.txt">
+      <PackagePath>files\MeerTaqiMeer42.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer43.txt">
+      <PackagePath>files\MeerTaqiMeer43.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer44.txt">
+      <PackagePath>files\MeerTaqiMeer44.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer45.txt">
+      <PackagePath>files\MeerTaqiMeer45.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer5.txt">
+      <PackagePath>files\MeerTaqiMeer5.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer6.txt">
+      <PackagePath>files\MeerTaqiMeer6.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer7.txt">
+      <PackagePath>files\MeerTaqiMeer7.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer8.txt">
+      <PackagePath>files\MeerTaqiMeer8.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\files\MeerTaqiMeer9.txt">
+      <PackagePath>files\MeerTaqiMeer9.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\pic2.jpg">
+      <PackagePath>pic2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Phone_Applications\Developing\MeerTaqiMeer\MeerTaqiMeer\Bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

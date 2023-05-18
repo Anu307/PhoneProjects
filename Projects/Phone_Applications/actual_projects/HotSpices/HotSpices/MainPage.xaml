@@ -1,0 +1,84 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:UI="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI" 
+    x:Class="HotSpices.MainPage" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768" 
+    d:DataContext="{d:DesignData SampleData/MainViewModelSampleData.xaml}"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="false">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <controls:Pivot x:Name="MyPivot"  SelectionChanged="Pivotselectionchanged" LoadedPivotItem="PivotItemLoaded" Margin="0,0,0,80" Foreground="Blue" >
+
+
+            <!--Pivot item two-->
+            <controls:PivotItem Header="Asafoetida" Margin="0,0,0,0">
+                <Image HorizontalAlignment="Left" Width="480" Source="/pics/asafoetida.jpg" DoubleTap="PlaySound" Margin="0,0,0,0" Stretch="UniformToFill"/>
+                <!--Double line list with text wrapping-->
+            </controls:PivotItem>
+
+            <!--Pivot item three-->
+            <controls:PivotItem Header="Cardamom" Margin="0,0,0,0">
+                <Image HorizontalAlignment="Left" Width="480" Source="/pics/Cardamom.jpg" DoubleTap="PlaySound" Margin="0,0,0,0" Stretch="UniformToFill"/>
+                <!--Double line list with text wrapping-->
+            </controls:PivotItem>
+
+
+
+            <!--Pivot item four-->
+            <controls:PivotItem Header="Cinnamon" Margin="0,0,0,0">
+                <Image HorizontalAlignment="Left" Width="480" Source="/pics/Cinnamon.jpg" DoubleTap="PlaySound" Margin="0,0,0,0" Stretch="UniformToFill"/>
+                <!--Double line list with text wrapping-->
+            </controls:PivotItem>
+
+            <!--Pivot item five-->
+            <controls:PivotItem Header="Clove" Margin="0,0,0,0">
+                <Image HorizontalAlignment="Left" Width="480" Source="/pics/Clove.jpg" DoubleTap="PlaySound" Margin="0,0,0,0" Stretch="UniformToFill"/>
+                <!--Double line list with text wrapping-->
+            </controls:PivotItem>
+
+            <!--Pivot item eight-->
+            <controls:PivotItem Header="Cumin" Margin="0,0,0,0">
+                <Image HorizontalAlignment="Left" Width="480" Source="/pics/Cumin.jpg" DoubleTap="PlaySound" Margin="0,0,0,0" Stretch="UniformToFill"/>
+                <!--Double line list with text wrapping-->
+            </controls:PivotItem>
+
+            <!--Pivot item nine-->
+            <controls:PivotItem Header="Fennel" Margin="0,0,0,0">
+                <Image HorizontalAlignment="Left" Width="480" Source="/pics/Fennel.jpg" DoubleTap="PlaySound" Margin="0,0,0,0" Stretch="UniformToFill"/>
+                <!--Double line list with text wrapping-->
+            </controls:PivotItem>
+
+            <!--Pivot item eleven-->
+            <controls:PivotItem Header="Fenugreek" Margin="0,0,0,0">
+                <Image HorizontalAlignment="Left" Width="480" Source="/pics/Fenugreek.jpg" DoubleTap="PlaySound" Margin="0,0,0,0" Stretch="UniformToFill"/>
+                <!--Double line list with text wrapping-->
+            </controls:PivotItem>
+            
+            <controls:PivotItem Header="Nutmeg" Margin="0,0,0,0">
+                <Image HorizontalAlignment="Left" Width="480" Source="/pics/nutmeg.jpg" DoubleTap="PlaySound" Margin="0,0,0,0" Stretch="UniformToFill"/>
+                <!--Double line list with text wrapping-->
+            </controls:PivotItem>
+            <controls:PivotItem Header="Peppercorn" Margin="0,0,0,0">
+                <Image HorizontalAlignment="Left" Width="480" Source="/pics/Pepper.jpg" DoubleTap="PlaySound" Margin="0,0,0,0" Stretch="UniformToFill"/>
+                <!--Double line list with text wrapping-->
+            </controls:PivotItem>
+        </controls:Pivot>
+
+
+        <UI:AdControl ApplicationId="b1a8543d-4fe7-43b4-9a9d-9a1bff6850a0" AdUnitId="10218480" HorizontalAlignment="Left" Height="80" Margin="0,720,0,0" VerticalAlignment="Top" Width="480"/>
+
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

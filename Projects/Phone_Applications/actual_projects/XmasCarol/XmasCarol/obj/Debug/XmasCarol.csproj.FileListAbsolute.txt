@@ -1,0 +1,138 @@
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\obj\Debug\XmasCarol.csprojResolveAssemblyReference.cache
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\obj\Debug\App.g.cs
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\obj\Debug\DetailsPage.g.cs
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\obj\Debug\MainPage.g.cs
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\obj\Debug\XmasCarol.g.resources
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\ApplicationIcon.png
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\All I Want For Christmas Is My Two Front Teeth.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Angels We Have Heard on High.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Angels, From the Realms of Glory.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Away in a Manger.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Do You Hear What I Hear.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Rudolph the Red-Nosed Reindeer.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Sleigh Ride.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\all-i-want-for-christmas.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\away-manger.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\came-upon-midnight-clear.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\carol-of-bells.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\christmas-song.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\come-all-ye-faithful.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\deck-the-halls.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\ding-dong.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\do-you-hear.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\drummer-boy.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\first-noel.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\frosty.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\grandma-reindeer.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\have-yourself-merry-little.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\heard-on-high.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\heard-the-bells.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\heaven-above.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\here-comes-santa-claus.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\here-we-come-awassailing.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\holly-ivy.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\home-for-christmas.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\jingle-bell-rock.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\jingle-bells.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\jolly-saint-nick.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\joy-to-world.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\let-it-snow.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\little-town-bethlehem.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\merry-christmas.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\oh-christmas-tree.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\oh-holy-night.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\over-river-woods.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\peace-on-earth.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\realms-of-glory.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\rocking-christmas-tree.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\rudolph.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\santa-claus-coming-town.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\saw-mommy-kissing-santa.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\saw-three-ships.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\silent-night.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\silver-bells.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\sleigh-ride.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\still-still-still.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\three-kings.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\twelve-days.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\up-housetop.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\wenceslas.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\music\winter-wonderland.mid
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\Background.png
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Carol of the Bells.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Deck the Halls.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Ding Dong! Merrily On High.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\From Heaven Above to Earth I Come.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Frosty the Snowman.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Good King Wenceslas.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Grandma Got Run Over By A Reindeer.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Have Yourself A Merry Little Christmas.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Here Comes Santa Claus.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Here We Come A-Wassailing.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\I Heard the Bells on Christmas Day.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\I Saw Mommy Kissing Santa Claus.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\I Saw Three Ships.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\I'll be Home for Christmas.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\It Came Upon A Midnight Clear.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Jingle Bell Rock.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Jingle Bells.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Jolly Old Saint Nicholas.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Joy to the World.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Let It Snow.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Let There Be Peace On Earth.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Little Drummer Boy.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\O Little Town of Bethlehem.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Oh Christmas Tree.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Oh Come, All Ye Faithful.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Oh Holy Night.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Over the River and Through the Woods.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Rocking Around the Christmas Tree.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Santa Claus Is Coming To Town.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Silent Night.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Silver Bells.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Still, Still, Still.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\The 12 Days of Christmas.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\The Christmas Song.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\The First Noel.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\The Holly and the Ivy.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Up On The Housetop.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\We Three Kings of Orient Are.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\We Wish You a Merry Christmas.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\htmls\Winter Wonderland.html
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\XmasCarol.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\XmasCarol.pdb
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\AppManifest.xaml
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\XmasCarol.xap
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\AdDuplex.WindowsPhone.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\Microsoft.Advertising.Mobile.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\microsoft.advertising.mobile.ui.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\Microsoft.Phone.Controls.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\Microsoft.Advertising.Mobile.xml
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\microsoft.advertising.mobile.ui.xml
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\Microsoft.Phone.Controls.xml
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\obj\Debug\XmasCarol.dll
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\obj\Debug\XmasCarol.pdb
+I:\Phone_Applications\Developing\XmasCarol\XmasCarol\obj\Debug\XapCacheFile.xml

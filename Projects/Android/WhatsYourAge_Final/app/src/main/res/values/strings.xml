@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WhatsYourAge</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">What\'s Your Age</string>
+    <string name="MyDate">My Date of Birth is::</string>
+    <string name="Date_Birth">Date of Birth</string>
+    <string name="Results">Your Age is:</string>
+    <string name="Results_Years">Years:</string>
+    <string name="Results_Months">Months:</string>
+    <string name="Results_Days">Days:</string>
+    <string name="Results_Absolute">Absolute Values:</string>
+    <string name="Absolute_Days">Days:</string>
+    <string name="Absolute_Hours">Hours:</string>
+    <string name="Absolute_Minutes">Minutess:</string>
+    <string name="Absolute_Seconds">Seconds:</string>
+    <string name="banner_ad_unit_id_top">ca-app-pub-9907838037304881/6923112657</string>
+    <string name="banner_ad_unit_id_bottom">ca-app-pub-9907838037304881/8399845857</string>
+</resources>

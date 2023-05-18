@@ -1,0 +1,15 @@
+H:\projects\Animalpicnsound\AudioPlaybackAgent\Bin\Release\AudioPlaybackAgent.dll
+H:\projects\Animalpicnsound\AudioPlaybackAgent\Bin\Release\AudioPlaybackAgent.pdb
+H:\projects\Animalpicnsound\AudioPlaybackAgent\obj\Release\AudioPlaybackAgent.csprojResolveAssemblyReference.cache
+H:\projects\Animalpicnsound\AudioPlaybackAgent\obj\Release\AudioPlaybackAgent.dll
+H:\projects\Animalpicnsound\AudioPlaybackAgent\obj\Release\AudioPlaybackAgent.pdb
+I:\Phone_Applications\actual_projects\Animalpicnsound\AudioPlaybackAgent\Bin\Release\AudioPlaybackAgent.dll
+I:\Phone_Applications\actual_projects\Animalpicnsound\AudioPlaybackAgent\Bin\Release\AudioPlaybackAgent.pdb
+I:\Phone_Applications\actual_projects\Animalpicnsound\AudioPlaybackAgent\obj\Release\AudioPlaybackAgent.csprojResolveAssemblyReference.cache
+I:\Phone_Applications\actual_projects\Animalpicnsound\AudioPlaybackAgent\obj\Release\AudioPlaybackAgent.dll
+I:\Phone_Applications\actual_projects\Animalpicnsound\AudioPlaybackAgent\obj\Release\AudioPlaybackAgent.pdb
+L:\Phone_Applications\actual_projects\Animalpicnsound\AudioPlaybackAgent\Bin\Release\AudioPlaybackAgent.dll
+L:\Phone_Applications\actual_projects\Animalpicnsound\AudioPlaybackAgent\Bin\Release\AudioPlaybackAgent.pdb
+L:\Phone_Applications\actual_projects\Animalpicnsound\AudioPlaybackAgent\obj\Release\AudioPlaybackAgent.csprojResolveAssemblyReference.cache
+L:\Phone_Applications\actual_projects\Animalpicnsound\AudioPlaybackAgent\obj\Release\AudioPlaybackAgent.dll
+L:\Phone_Applications\actual_projects\Animalpicnsound\AudioPlaybackAgent\obj\Release\AudioPlaybackAgent.pdb

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANUBHAV-LTP</Machine>
+    <WindowsUser>anubhavm</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d05d285d-ef73-4a07-9728-e607cd466b55</PackageIdentityName>
+    <IntermediateOutputPath>D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Bin\Release\OrganiserNews.dll">
+      <PackagePath>OrganiserNews.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.dll">
+      <PackagePath>Microsoft.Advertising.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.dll">
+      <PackagePath>Microsoft.Advertising.Mobile.UI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\packages\AdDuplexWP8.9.0.0.6\lib\wp8\AdDuplex.WindowsPhone.dll">
+      <PackagePath>AdDuplex.WindowsPhone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.xml">
+      <PackagePath>Microsoft.Advertising.Mobile.UI.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.xml">
+      <PackagePath>Microsoft.Advertising.Mobile.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\home.png">
+      <PackagePath>Assets\home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\like.png">
+      <PackagePath>Assets\like.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\refresh.png">
+      <PackagePath>Assets\refresh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OrganiserNewsVS\OrganiserNews\OrganiserNews\Bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

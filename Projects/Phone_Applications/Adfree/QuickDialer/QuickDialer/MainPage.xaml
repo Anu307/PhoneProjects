@@ -1,0 +1,50 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI"
+    x:Class="QuickDialer.MainPage"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+
+            <shell:ApplicationBar.MenuItems>
+
+                <shell:ApplicationBarMenuItem Text="Add Shortcuts" Click="Shortcut_Click"/>
+                <shell:ApplicationBarMenuItem Text="Feedback" Click="Feedback_Click"/>
+
+            </shell:ApplicationBar.MenuItems>
+
+            <shell:ApplicationBarIconButton Click="Dial_Click" IconUri="feature.phone.png" Text="Call"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="Dialer" Text="QUICK DIALER" Style="{StaticResource PhoneTextNormalStyle}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="10,10,14,-10">
+            <TextBox x:Name="Phone_Text" HorizontalAlignment="Left" Height="72" Margin="-2,59,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="456" InputScope="TelephoneNumber" KeyDown="Phone_textKeyDown"/>
+
+            <UI:AdControl ApplicationId="58565f33-2a5e-4745-954e-b14badc937d7" AdUnitId="10154427" HorizontalAlignment="Left" Height="80" Margin="-2,-21,-22,0" VerticalAlignment="Top" Width="480"/>
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

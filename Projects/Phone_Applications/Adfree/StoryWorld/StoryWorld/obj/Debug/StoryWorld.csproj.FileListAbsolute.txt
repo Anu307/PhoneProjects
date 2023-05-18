@@ -1,0 +1,109 @@
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Debug\App.g.cs
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Debug\DetailsPage.g.cs
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Debug\MainPage.g.cs
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Debug\StoryWorld.g.resources
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\ApplicationIcon.png
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Ants and the Grasshopper.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Ants and the Grasshopper.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Brave Tin Soldier.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Brave Tin Soldier.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Bundle of Sticks.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Bundle of Sticks.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Cinderella.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Cinderella.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Elves and the Shoemaker.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Elves and the Shoemaker.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Fox and Goat.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Fox and Goat.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Fox and Grapes.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Fox and Grapes.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Goose and Golden Egg.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Goose and Golden Egg.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Hansel and Gretel.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Hansel and Gretel.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Jack the Dullard.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Jack the Dullard.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Little Red Riding Hood.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Little Red Riding Hood.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\No Doubt.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\No Doubt.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Princess and the Pea.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Princess and the Pea.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Rapunzel.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Rapunzel.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\RedShoe.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\RedShoe.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Rumplestiltskin.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Rumplestiltskin.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Saucy Boy.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Saucy Boy.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Shepherdess and the Sweep.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Shepherdess and the Sweep.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\SleepingBeauty.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\SleepingBeauty.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\SnowWhite.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\SnowWhite.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Swineherd.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Swineherd.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Beetle.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Beetle.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Bell.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Bell.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Buckwhet.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Buckwhet.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Darning-Needle.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Darning-Needle.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Elfin Hill.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Elfin Hill.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Fir Tree.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Fir Tree.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Flying Trunk.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Flying Trunk.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Frog-Prince.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Frog-Prince.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Happy Family.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Happy Family.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Shirt-Collar.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Shirt-Collar.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Tinder-Box.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\The Tinder-Box.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Top and ball.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Top and ball.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Valiant Little Tailor.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\files\Valiant Little Tailor.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\Background.png
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\Microsoft.Advertising.Mobile.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\microsoft.advertising.mobile.ui.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\Microsoft.Phone.Controls.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\Microsoft.Advertising.Mobile.xml
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\microsoft.advertising.mobile.ui.xml
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Debug\StoryWorld.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Debug\StoryWorld.pdb
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\StoryWorld.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\StoryWorld.pdb
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\AppManifest.xaml
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\Properties\WMAppManifest.xml
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Debug\StoryWorld_Debug_AnyCPU.xap
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Debug\XapCacheFile.xml

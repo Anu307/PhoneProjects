@@ -1,0 +1,17 @@
+﻿<xapCache source="I:\Phone_Applications\actual_projects\DiscountCalculator\DiscountCalculator\Bin\Release\DiscountCalculator.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="9/27/2013 12:04:12 AM">
+  <file source="I:\Phone_Applications\actual_projects\DiscountCalculator\DiscountCalculator\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="9/15/2013 10:21:38 AM" />
+  <file source="I:\Phone_Applications\actual_projects\DiscountCalculator\DiscountCalculator\Background.png" archivePath="Background.png" lastWriteTime="9/15/2013 7:42:22 AM" />
+  <file source="I:\Phone_Applications\actual_projects\DiscountCalculator\DiscountCalculator\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="9/15/2013 7:41:39 AM" />
+  <file source="I:\Phone_Applications\actual_projects\DiscountCalculator\DiscountCalculator\obj\Release\DiscountCalculator.dll" archivePath="DiscountCalculator.dll" lastWriteTime="9/27/2013 12:04:11 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Advertising for Phone\Libraries\v7.1\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="7/20/2012 7:57:18 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Advertising for Phone\Libraries\v7.1\microsoft.advertising.mobile.ui.dll" archivePath="microsoft.advertising.mobile.ui.dll" lastWriteTime="7/20/2012 7:57:18 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="7/6/2012 1:40:16 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="7/6/2012 1:40:16 AM" />
+  <file source="I:\Phone_Applications\actual_projects\DiscountCalculator\DiscountCalculator\feature.email.png" archivePath="feature.email.png" lastWriteTime="8/22/2013 5:14:36 PM" />
+  <file source="I:\Phone_Applications\actual_projects\DiscountCalculator\DiscountCalculator\image.png" archivePath="image.png" lastWriteTime="9/15/2013 9:51:20 AM" />
+  <file source="I:\Phone_Applications\actual_projects\DiscountCalculator\DiscountCalculator\questionmark.png" archivePath="questionmark.png" lastWriteTime="9/15/2013 10:04:16 AM" />
+  <file source="I:\Phone_Applications\actual_projects\DiscountCalculator\DiscountCalculator\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="9/15/2013 7:49:29 AM" />
+  <file source="I:\Phone_Applications\actual_projects\DiscountCalculator\DiscountCalculator\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="9/15/2013 10:21:38 AM" />
+  <file source="I:\Phone_Applications\actual_projects\DiscountCalculator\DiscountCalculator\Bin\Release\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="9/15/2013 7:41:39 AM" />
+  <file source="I:\Phone_Applications\actual_projects\DiscountCalculator\DiscountCalculator\Bin\Release\Background.png" archivePath="Background.png" lastWriteTime="9/15/2013 7:42:22 AM" />
+</xapCache>

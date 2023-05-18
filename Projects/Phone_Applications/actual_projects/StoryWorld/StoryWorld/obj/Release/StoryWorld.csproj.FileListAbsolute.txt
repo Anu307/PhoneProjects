@@ -1,0 +1,339 @@
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\ApplicationIcon.png
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Ants and the Grasshopper.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Ants and the Grasshopper.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Brave Tin Soldier.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Brave Tin Soldier.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Bundle of Sticks.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Bundle of Sticks.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Cinderella.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Cinderella.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Elves and the Shoemaker.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Elves and the Shoemaker.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Fox and Goat.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Fox and Goat.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Fox and Grapes.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Fox and Grapes.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Goose and Golden Egg.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Goose and Golden Egg.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Hansel and Gretel.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Hansel and Gretel.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Jack the Dullard.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Jack the Dullard.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Little Red Riding Hood.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Little Red Riding Hood.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\No Doubt.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\No Doubt.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Princess and the Pea.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Princess and the Pea.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Rapunzel.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Rapunzel.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\RedShoe.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\RedShoe.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Rumplestiltskin.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Rumplestiltskin.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Saucy Boy.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Saucy Boy.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Shepherdess and the Sweep.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Shepherdess and the Sweep.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\SleepingBeauty.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\SleepingBeauty.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\SnowWhite.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\SnowWhite.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Swineherd.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Swineherd.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Beetle.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Beetle.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Bell.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Bell.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Buckwhet.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Buckwhet.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Darning-Needle.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Darning-Needle.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Elfin Hill.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Elfin Hill.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Fir Tree.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Fir Tree.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Flying Trunk.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Flying Trunk.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Frog-Prince.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Frog-Prince.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Happy Family.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Happy Family.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Shirt-Collar.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Shirt-Collar.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Tinder-Box.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Tinder-Box.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Top and ball.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Top and ball.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Valiant Little Tailor.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\Valiant Little Tailor.txt
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\Background.png
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\StoryWorld.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\StoryWorld.pdb
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\AppManifest.xaml
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\Properties\WMAppManifest.xml
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\StoryWorld_Release_AnyCPU.xap
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\Microsoft.Advertising.Mobile.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\microsoft.advertising.mobile.ui.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\Microsoft.Phone.Controls.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\Microsoft.Advertising.Mobile.xml
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\microsoft.advertising.mobile.ui.xml
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Release\StoryWorld.csprojResolveAssemblyReference.cache
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Release\App.g.cs
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Release\DetailsPage.g.cs
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Release\MainPage.g.cs
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Release\StoryWorld.g.resources
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Release\StoryWorld.dll
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Release\StoryWorld.pdb
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\obj\Release\XapCacheFile.xml
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Emperors New Suit.htm
+L:\Phone_Applications\Under_development\StoryWorld\StoryWorld\Bin\Release\files\The Emperors New Suit.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\ApplicationIcon.png
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Ants and the Grasshopper.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Ants and the Grasshopper.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Brave Tin Soldier.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Brave Tin Soldier.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Bundle of Sticks.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Bundle of Sticks.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Cinderella.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Cinderella.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Elves and the Shoemaker.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Elves and the Shoemaker.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Fox and Goat.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Fox and Goat.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Fox and Grapes.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Fox and Grapes.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Goose and Golden Egg.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Goose and Golden Egg.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Hansel and Gretel.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Hansel and Gretel.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Jack the Dullard.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Jack the Dullard.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Little Red Riding Hood.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Little Red Riding Hood.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\No Doubt.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\No Doubt.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Princess and the Pea.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Princess and the Pea.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Rapunzel.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Rapunzel.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\RedShoe.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\RedShoe.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Rumplestiltskin.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Rumplestiltskin.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Saucy Boy.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Saucy Boy.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Shepherdess and the Sweep.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Shepherdess and the Sweep.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\SleepingBeauty.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\SleepingBeauty.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\SnowWhite.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\SnowWhite.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Swineherd.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Swineherd.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Beetle.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Beetle.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Bell.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Bell.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Buckwhet.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Buckwhet.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Darning-Needle.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Darning-Needle.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Elfin Hill.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Elfin Hill.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Emperors New Suit.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Emperors New Suit.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Fir Tree.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Fir Tree.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Flying Trunk.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Flying Trunk.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Frog-Prince.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Frog-Prince.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Happy Family.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Happy Family.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Shirt-Collar.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Shirt-Collar.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Tinder-Box.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Tinder-Box.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Top and ball.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Top and ball.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Valiant Little Tailor.htm
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Valiant Little Tailor.txt
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Background.png
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\StoryWorld.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\StoryWorld.pdb
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\AppManifest.xaml
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Properties\WMAppManifest.xml
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\StoryWorld_Release_AnyCPU.xap
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Microsoft.Advertising.Mobile.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\microsoft.advertising.mobile.ui.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Microsoft.Phone.Controls.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Microsoft.Advertising.Mobile.xml
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\microsoft.advertising.mobile.ui.xml
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\StoryWorld.csprojResolveAssemblyReference.cache
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\App.g.cs
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\DetailsPage.g.cs
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\MainPage.g.cs
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\StoryWorld.g.resources
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\StoryWorld.dll
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\StoryWorld.pdb
+I:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\XapCacheFile.xml
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\ApplicationIcon.png
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Ants and the Grasshopper.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Ants and the Grasshopper.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Brave Tin Soldier.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Brave Tin Soldier.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Bundle of Sticks.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Bundle of Sticks.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Cinderella.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Cinderella.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Elves and the Shoemaker.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Elves and the Shoemaker.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Fox and Goat.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Fox and Goat.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Fox and Grapes.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Fox and Grapes.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Goose and Golden Egg.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Goose and Golden Egg.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Hansel and Gretel.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Hansel and Gretel.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Jack the Dullard.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Jack the Dullard.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Little Red Riding Hood.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Little Red Riding Hood.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\No Doubt.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\No Doubt.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Princess and the Pea.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Princess and the Pea.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Rapunzel.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Rapunzel.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\RedShoe.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\RedShoe.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Rumplestiltskin.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Rumplestiltskin.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Saucy Boy.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Saucy Boy.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Shepherdess and the Sweep.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Shepherdess and the Sweep.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\SleepingBeauty.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\SleepingBeauty.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\SnowWhite.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\SnowWhite.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Swineherd.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Swineherd.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Beetle.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Beetle.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Bell.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Bell.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Buckwhet.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Buckwhet.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Darning-Needle.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Darning-Needle.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Elfin Hill.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Elfin Hill.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Emperors New Suit.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Emperors New Suit.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Fir Tree.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Fir Tree.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Flying Trunk.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Flying Trunk.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Frog-Prince.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Frog-Prince.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Happy Family.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Happy Family.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Shirt-Collar.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Shirt-Collar.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Tinder-Box.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\The Tinder-Box.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Top and ball.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Top and ball.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Valiant Little Tailor.htm
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\files\Valiant Little Tailor.txt
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Background.png
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\StoryWorld.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\StoryWorld.pdb
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\AppManifest.xaml
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Properties\WMAppManifest.xml
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\StoryWorld_Release_AnyCPU.xap
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Microsoft.Advertising.Mobile.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\microsoft.advertising.mobile.ui.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Microsoft.Phone.Controls.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Microsoft.Advertising.Mobile.xml
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\microsoft.advertising.mobile.ui.xml
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\StoryWorld.csprojResolveAssemblyReference.cache
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\App.g.cs
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\DetailsPage.g.cs
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\MainPage.g.cs
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\StoryWorld.g.resources
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\StoryWorld.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\StoryWorld.pdb
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\obj\Release\XapCacheFile.xml
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\StoryWorld.dll.config
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\AdDuplex.WindowsPhone.dll
+L:\Phone_Applications\actual_projects\StoryWorld\StoryWorld\Bin\Release\Inneractive.Ad.dll

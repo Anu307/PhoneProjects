@@ -1,0 +1,468 @@
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ApplicationIcon.png
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER I.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER I.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER II.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER II.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER III.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER III.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Aladdin and the Wonderful Lamp.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Aladdin and the Wonderful Lamp.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Beauty and the Beast.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Beauty and the Beast.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Blue Beard.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Blue Beard.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Cinderella, or the Little Glass Slipper.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Cinderella, or the Little Glass Slipper.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\East of the Sun and West of the Moon.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\East of the Sun and West of the Moon.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Hansel and Grettel.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Hansel and Grettel.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Red Riding Hood.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Red Riding Hood.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Thumb.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Thumb.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Darling.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Darling.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Hyacinth and the Dear Little Princess.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Hyacinth and the Dear Little Princess.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Rumpelstiltzkin.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Rumpelstiltzkin.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Snow-White and Rose-Red.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Snow-White and Rose-Red.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Black Bull of Norroway.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Black Bull of Norroway.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Brave Little Tailor.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Brave Little Tailor.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Bronze Ring.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Bronze Ring.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Forty Thieves.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Forty Thieves.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Goose-Girl.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Goose-Girl.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Jack the Giant-Killer.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Jack the Giant-Killer.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Whittington.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Whittington.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master Cat; or, Puss in Boots.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master Cat; or, Puss in Boots.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master-Maid.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master-Maid.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Princess on the Glass Hill.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Princess on the Glass Hill.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Red Etin.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Red Etin.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Sleeping Beauty in the Wood.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Sleeping Beauty in the Wood.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Pretty Goldilocks.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Pretty Goldilocks.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Prince Ahmed and the Fairy Paribanou.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Prince Ahmed and the Fairy Paribanou.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Tale of a Youth Who Set Out to Learn what Fear Was.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Tale of a Youth Who Set Out to Learn what Fear Was.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Terrible Head.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Terrible Head.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Water-Lily The Gold-Spinners.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Water-Lily The Gold-Spinners.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The White Cat.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The White Cat.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Wonderful Sheep.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Wonderful Sheep.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Yellow Dwarf.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Yellow Dwarf.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Toads and Diamonds.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Toads and Diamonds.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Trusty John.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Trusty John.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Why the Sea is Salt.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Why the Sea is Salt.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Background.png
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales.pdb
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\AppManifest.xaml
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Properties\WMAppManifest.xml
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales_Release_AnyCPU.xap
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Advertising.Mobile.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\microsoft.advertising.mobile.ui.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Phone.Controls.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Advertising.Mobile.xml
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\microsoft.advertising.mobile.ui.xml
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\obj\Release\App.g.cs
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\obj\Release\DetailsPage.g.cs
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\obj\Release\MainPage.g.cs
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.g.resources
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.dll
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.pdb
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\obj\Release\XapCacheFile.xml
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER IV.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER IV.txt
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER V.htm
+L:\Phone_Applications\Under_Development\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER V.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ApplicationIcon.png
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER I.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER I.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER II.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER II.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER III.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER III.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER IV.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER IV.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER V.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER V.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Aladdin and the Wonderful Lamp.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Aladdin and the Wonderful Lamp.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Beauty and the Beast.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Beauty and the Beast.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Blue Beard.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Blue Beard.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Cinderella, or the Little Glass Slipper.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Cinderella, or the Little Glass Slipper.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\East of the Sun and West of the Moon.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\East of the Sun and West of the Moon.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Hansel and Grettel.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Hansel and Grettel.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Red Riding Hood.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Red Riding Hood.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Thumb.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Thumb.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Darling.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Darling.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Hyacinth and the Dear Little Princess.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Hyacinth and the Dear Little Princess.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Rumpelstiltzkin.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Rumpelstiltzkin.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Snow-White and Rose-Red.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Snow-White and Rose-Red.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Black Bull of Norroway.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Black Bull of Norroway.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Brave Little Tailor.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Brave Little Tailor.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Bronze Ring.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Bronze Ring.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Forty Thieves.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Forty Thieves.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Goose-Girl.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Goose-Girl.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Jack the Giant-Killer.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Jack the Giant-Killer.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Whittington.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Whittington.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master Cat; or, Puss in Boots.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master Cat; or, Puss in Boots.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master-Maid.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master-Maid.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Princess on the Glass Hill.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Princess on the Glass Hill.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Red Etin.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Red Etin.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Sleeping Beauty in the Wood.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Sleeping Beauty in the Wood.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Pretty Goldilocks.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Pretty Goldilocks.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Prince Ahmed and the Fairy Paribanou.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Prince Ahmed and the Fairy Paribanou.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Tale of a Youth Who Set Out to Learn what Fear Was.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Tale of a Youth Who Set Out to Learn what Fear Was.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Terrible Head.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Terrible Head.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Water-Lily The Gold-Spinners.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Water-Lily The Gold-Spinners.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The White Cat.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The White Cat.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Wonderful Sheep.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Wonderful Sheep.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Yellow Dwarf.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Yellow Dwarf.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Toads and Diamonds.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Toads and Diamonds.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Trusty John.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Trusty John.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Why the Sea is Salt.htm
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Why the Sea is Salt.txt
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Background.png
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales.dll.config
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales.pdb
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\AppManifest.xaml
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Properties\WMAppManifest.xml
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales_Release_AnyCPU.xap
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\AdDuplex.WindowsPhone.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Advertising.Mobile.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\microsoft.advertising.mobile.ui.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Phone.Controls.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Advertising.Mobile.xml
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\microsoft.advertising.mobile.ui.xml
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\App.g.cs
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\DetailsPage.g.cs
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\MainPage.g.cs
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.g.resources
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.pdb
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\XapCacheFile.xml
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ApplicationIcon.png
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER I.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER I.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER II.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER II.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER III.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER III.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER IV.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER IV.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER V.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER V.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Aladdin and the Wonderful Lamp.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Aladdin and the Wonderful Lamp.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Beauty and the Beast.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Beauty and the Beast.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Blue Beard.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Blue Beard.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Cinderella, or the Little Glass Slipper.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Cinderella, or the Little Glass Slipper.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\East of the Sun and West of the Moon.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\East of the Sun and West of the Moon.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Hansel and Grettel.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Hansel and Grettel.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Red Riding Hood.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Red Riding Hood.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Thumb.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Thumb.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Darling.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Darling.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Hyacinth and the Dear Little Princess.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Hyacinth and the Dear Little Princess.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Rumpelstiltzkin.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Rumpelstiltzkin.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Snow-White and Rose-Red.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Snow-White and Rose-Red.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Black Bull of Norroway.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Black Bull of Norroway.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Brave Little Tailor.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Brave Little Tailor.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Bronze Ring.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Bronze Ring.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Forty Thieves.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Forty Thieves.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Goose-Girl.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Goose-Girl.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Jack the Giant-Killer.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Jack the Giant-Killer.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Whittington.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Whittington.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master Cat; or, Puss in Boots.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master Cat; or, Puss in Boots.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master-Maid.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master-Maid.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Princess on the Glass Hill.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Princess on the Glass Hill.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Red Etin.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Red Etin.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Sleeping Beauty in the Wood.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Sleeping Beauty in the Wood.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Pretty Goldilocks.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Pretty Goldilocks.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Prince Ahmed and the Fairy Paribanou.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Prince Ahmed and the Fairy Paribanou.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Tale of a Youth Who Set Out to Learn what Fear Was.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Tale of a Youth Who Set Out to Learn what Fear Was.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Terrible Head.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Terrible Head.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Water-Lily The Gold-Spinners.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Water-Lily The Gold-Spinners.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The White Cat.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The White Cat.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Wonderful Sheep.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Wonderful Sheep.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Yellow Dwarf.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Yellow Dwarf.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Toads and Diamonds.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Toads and Diamonds.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Trusty John.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Trusty John.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Why the Sea is Salt.htm
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Why the Sea is Salt.txt
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Background.png
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales.dll.config
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales.pdb
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\AppManifest.xaml
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Properties\WMAppManifest.xml
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales_Release_AnyCPU.xap
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\AdDuplex.WindowsPhone.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Advertising.Mobile.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\microsoft.advertising.mobile.ui.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Phone.Controls.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Advertising.Mobile.xml
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\microsoft.advertising.mobile.ui.xml
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.csprojResolveAssemblyReference.cache
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\App.g.cs
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\DetailsPage.g.cs
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\MainPage.g.cs
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.g.resources
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.dll
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.pdb
+I:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\XapCacheFile.xml
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Inneractive.Ad.dll
+L:\Phone_Applications\actual_projects\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.csprojResolveAssemblyReference.cache
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\ApplicationIcon.png
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER I.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER I.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER II.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER II.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER III.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER III.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER IV.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER IV.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER V.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\A Voyage to Lilliput - CHAPTER V.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Aladdin and the Wonderful Lamp.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Aladdin and the Wonderful Lamp.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Beauty and the Beast.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Beauty and the Beast.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Blue Beard.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Blue Beard.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Cinderella, or the Little Glass Slipper.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Cinderella, or the Little Glass Slipper.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\East of the Sun and West of the Moon.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\East of the Sun and West of the Moon.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Hansel and Grettel.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Hansel and Grettel.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Red Riding Hood.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Red Riding Hood.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Thumb.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Little Thumb.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Darling.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Darling.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Hyacinth and the Dear Little Princess.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Prince Hyacinth and the Dear Little Princess.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Rumpelstiltzkin.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Rumpelstiltzkin.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Snow-White and Rose-Red.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Snow-White and Rose-Red.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Black Bull of Norroway.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Black Bull of Norroway.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Brave Little Tailor.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Brave Little Tailor.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Bronze Ring.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Bronze Ring.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Forty Thieves.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Forty Thieves.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Goose-Girl.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Goose-Girl.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Jack the Giant-Killer.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Jack the Giant-Killer.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Whittington.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The History of Whittington.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master Cat; or, Puss in Boots.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master Cat; or, Puss in Boots.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master-Maid.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Master-Maid.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Princess on the Glass Hill.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Princess on the Glass Hill.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Red Etin.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Red Etin.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Sleeping Beauty in the Wood.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Sleeping Beauty in the Wood.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Pretty Goldilocks.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Pretty Goldilocks.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Prince Ahmed and the Fairy Paribanou.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Story of Prince Ahmed and the Fairy Paribanou.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Tale of a Youth Who Set Out to Learn what Fear Was.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Tale of a Youth Who Set Out to Learn what Fear Was.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Terrible Head.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Terrible Head.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Water-Lily The Gold-Spinners.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Water-Lily The Gold-Spinners.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The White Cat.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The White Cat.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Wonderful Sheep.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Wonderful Sheep.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Yellow Dwarf.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\The Yellow Dwarf.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Toads and Diamonds.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Toads and Diamonds.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Trusty John.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Trusty John.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Why the Sea is Salt.htm
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\files\Why the Sea is Salt.txt
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Background.png
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales.dll.config
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales.dll
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales.pdb
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\AppManifest.xaml
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Properties\WMAppManifest.xml
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\SpeakingFairyTales_Release_AnyCPU.xap
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Phone.Controls.dll
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.csprojResolveAssemblyReference.cache
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\obj\Release\App.g.cs
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\obj\Release\DetailsPage.g.cs
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\obj\Release\MainPage.g.cs
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.g.resources
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.dll
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\obj\Release\SpeakingFairyTales.pdb
+J:\Phone_Applications\Adfree\SpeakingFairyTales\SpeakingFairyTales\obj\Release\XapCacheFile.xml

@@ -1,0 +1,15 @@
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\Bin\Debug\ApplicationIcon.png
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\Bin\Debug\Background.png
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\Bin\Debug\Soundcheck.dll
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\Bin\Debug\Soundcheck.pdb
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\Bin\Debug\AppManifest.xaml
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\Bin\Debug\Soundcheck.xap
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\obj\Debug\Soundcheck.csprojResolveAssemblyReference.cache
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\obj\Debug\App.g.cs
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\obj\Debug\MainPage.g.cs
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\obj\Debug\Soundcheck.g.resources
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\obj\Debug\Soundcheck.dll
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\obj\Debug\Soundcheck.pdb
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\obj\Debug\XapCacheFile.xml
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\Bin\Debug\Ring1.wav
+I:\Phone_Applications\Developing\Soundcheck\Soundcheck\Bin\Debug\camel.wma

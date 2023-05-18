@@ -1,0 +1,464 @@
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\ApplicationIcon.png
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\BabaYaga.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\BabaYaga.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Crimson Flower.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Crimson Flower.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Daughter and Stepdaughter.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Daughter and Stepdaughter.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Emelya and the Pike.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Emelya and the Pike.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Father Frost.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Father Frost.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fenist the Bright Falcon.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fenist the Bright Falcon.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Flying Ship.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Flying Ship.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fox, Hare and Cock.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fox, Hare and Cock.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Fish.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Fish.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Mountain.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Mountain.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivan Tsarevitch and the Grey Wolf.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivan Tsarevitch and the Grey Wolf.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivanushka the Simpleton.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivanushka the Simpleton.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Snow Girl.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Snow Girl.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Straw Bull.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Straw Bull.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Ring.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Ring.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Wild Geese.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Wild Geese.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Maria Morevna.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Maria Morevna.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Morozko.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Morozko.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Pea-Roll.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Pea-Roll.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sadko.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sadko.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Silver Hoof.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Silver Hoof.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sirko.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sirko.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Alyonushka and Brother Ivanushka.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Alyonushka and Brother Ivanushka.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Fox and Brother Wolf.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Fox and Brother Wolf.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sivka Burka.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sivka Burka.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\SnowMaiden.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\SnowMaiden.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Stone Flower.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Stone Flower.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teremok (Little Hut).htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teremok (Little Hut).txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teryosha.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teryosha.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Apples of Youth and the Living.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Apples of Youth and the Living.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Cat and the Rooster.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Cat and the Rooster.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The death of Koshchei the Deathless.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The death of Koshchei the Deathless.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fire-Bird and Princess Vassilissa.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fire-Bird and Princess Vassilissa.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fly's Castle.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fly's Castle.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Golden Hair.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Golden Hair.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Princess Frog.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Princess Frog.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Twelve Months.htm
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Twelve Months.txt
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\Background.png
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\RussianFolkTales.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\RussianFolkTales.pdb
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\AppManifest.xaml
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\Properties\WMAppManifest.xml
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\RussianFolkTales_Debug_AnyCPU.xap
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Advertising.Mobile.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\microsoft.advertising.mobile.ui.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Phone.Controls.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Advertising.Mobile.xml
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\microsoft.advertising.mobile.ui.xml
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.csprojResolveAssemblyReference.cache
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\App.g.cs
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\DetailsPage.g.cs
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\MainPage.g.cs
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.g.resources
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.dll
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.pdb
+I:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\XapCacheFile.xml
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\ApplicationIcon.png
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\BabaYaga.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\BabaYaga.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Crimson Flower.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Crimson Flower.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Daughter and Stepdaughter.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Daughter and Stepdaughter.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Emelya and the Pike.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Emelya and the Pike.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Father Frost.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Father Frost.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fenist the Bright Falcon.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fenist the Bright Falcon.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Flying Ship.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Flying Ship.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fox, Hare and Cock.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fox, Hare and Cock.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Fish.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Fish.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Mountain.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Mountain.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivan Tsarevitch and the Grey Wolf.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivan Tsarevitch and the Grey Wolf.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivanushka the Simpleton.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivanushka the Simpleton.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Snow Girl.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Snow Girl.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Straw Bull.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Straw Bull.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Ring.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Ring.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Wild Geese.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Wild Geese.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Maria Morevna.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Maria Morevna.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Morozko.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Morozko.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Pea-Roll.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Pea-Roll.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sadko.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sadko.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Silver Hoof.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Silver Hoof.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sirko.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sirko.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Alyonushka and Brother Ivanushka.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Alyonushka and Brother Ivanushka.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Fox and Brother Wolf.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Fox and Brother Wolf.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sivka Burka.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sivka Burka.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\SnowMaiden.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\SnowMaiden.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Stone Flower.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Stone Flower.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teremok (Little Hut).htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teremok (Little Hut).txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teryosha.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teryosha.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Apples of Youth and the Living.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Apples of Youth and the Living.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Cat and the Rooster.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Cat and the Rooster.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The death of Koshchei the Deathless.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The death of Koshchei the Deathless.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fire-Bird and Princess Vassilissa.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fire-Bird and Princess Vassilissa.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fly's Castle.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fly's Castle.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Golden Hair.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Golden Hair.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Princess Frog.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Princess Frog.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Twelve Months.htm
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Twelve Months.txt
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\Background.png
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\RussianFolkTales.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\RussianFolkTales.pdb
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\AppManifest.xaml
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\Properties\WMAppManifest.xml
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\RussianFolkTales_Debug_AnyCPU.xap
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Advertising.Mobile.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\microsoft.advertising.mobile.ui.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Phone.Controls.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Advertising.Mobile.xml
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\microsoft.advertising.mobile.ui.xml
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.csprojResolveAssemblyReference.cache
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\App.g.cs
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\DetailsPage.g.cs
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\MainPage.g.cs
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.g.resources
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.dll
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.pdb
+L:\Phone_Applications\Under_development\RussianFolkTales\RussianFolkTales\obj\Debug\XapCacheFile.xml
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\ApplicationIcon.png
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\BabaYaga.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\BabaYaga.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Crimson Flower.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Crimson Flower.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Daughter and Stepdaughter.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Daughter and Stepdaughter.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Emelya and the Pike.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Emelya and the Pike.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Father Frost.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Father Frost.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fenist the Bright Falcon.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fenist the Bright Falcon.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Flying Ship.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Flying Ship.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fox, Hare and Cock.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fox, Hare and Cock.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Fish.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Fish.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Mountain.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Mountain.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivan Tsarevitch and the Grey Wolf.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivan Tsarevitch and the Grey Wolf.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivanushka the Simpleton.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivanushka the Simpleton.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Snow Girl.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Snow Girl.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Straw Bull.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Straw Bull.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Ring.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Ring.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Wild Geese.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Wild Geese.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Maria Morevna.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Maria Morevna.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Morozko.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Morozko.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Pea-Roll.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Pea-Roll.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sadko.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sadko.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Silver Hoof.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Silver Hoof.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sirko.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sirko.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Alyonushka and Brother Ivanushka.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Alyonushka and Brother Ivanushka.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Fox and Brother Wolf.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Fox and Brother Wolf.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sivka Burka.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sivka Burka.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\SnowMaiden.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\SnowMaiden.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Stone Flower.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Stone Flower.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teremok (Little Hut).htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teremok (Little Hut).txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teryosha.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teryosha.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Apples of Youth and the Living.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Apples of Youth and the Living.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Cat and the Rooster.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Cat and the Rooster.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The death of Koshchei the Deathless.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The death of Koshchei the Deathless.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fire-Bird and Princess Vassilissa.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fire-Bird and Princess Vassilissa.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fly's Castle.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fly's Castle.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Golden Hair.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Golden Hair.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Princess Frog.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Princess Frog.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Twelve Months.htm
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Twelve Months.txt
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\Background.png
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\RussianFolkTales.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\RussianFolkTales.pdb
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\AppManifest.xaml
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\Properties\WMAppManifest.xml
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\RussianFolkTales_Debug_AnyCPU.xap
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Advertising.Mobile.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\microsoft.advertising.mobile.ui.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Phone.Controls.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Advertising.Mobile.xml
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\microsoft.advertising.mobile.ui.xml
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.csprojResolveAssemblyReference.cache
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\App.g.cs
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\DetailsPage.g.cs
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\MainPage.g.cs
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.g.resources
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.dll
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.pdb
+I:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\XapCacheFile.xml
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\ApplicationIcon.png
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\BabaYaga.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\BabaYaga.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Crimson Flower.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Crimson Flower.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Daughter and Stepdaughter.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Daughter and Stepdaughter.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Emelya and the Pike.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Emelya and the Pike.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Father Frost.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Father Frost.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fenist the Bright Falcon.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fenist the Bright Falcon.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Flying Ship.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Flying Ship.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fox, Hare and Cock.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Fox, Hare and Cock.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Fish.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Fish.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Mountain.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Golden Mountain.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivan Tsarevitch and the Grey Wolf.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivan Tsarevitch and the Grey Wolf.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivanushka the Simpleton.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Ivanushka the Simpleton.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Snow Girl.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Snow Girl.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Straw Bull.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Little Straw Bull.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Ring.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Ring.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Wild Geese.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Magic Wild Geese.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Maria Morevna.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Maria Morevna.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Morozko.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Morozko.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Pea-Roll.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Pea-Roll.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sadko.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sadko.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Silver Hoof.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Silver Hoof.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sirko.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sirko.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Alyonushka and Brother Ivanushka.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Alyonushka and Brother Ivanushka.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Fox and Brother Wolf.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sister Fox and Brother Wolf.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sivka Burka.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Sivka Burka.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\SnowMaiden.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\SnowMaiden.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Stone Flower.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Stone Flower.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teremok (Little Hut).htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teremok (Little Hut).txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teryosha.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Teryosha.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Apples of Youth and the Living.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Apples of Youth and the Living.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Cat and the Rooster.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Cat and the Rooster.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The death of Koshchei the Deathless.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The death of Koshchei the Deathless.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fire-Bird and Princess Vassilissa.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fire-Bird and Princess Vassilissa.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fly's Castle.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Fly's Castle.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Golden Hair.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Golden Hair.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Princess Frog.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\The Princess Frog.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Twelve Months.htm
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\files\Twelve Months.txt
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\Background.png
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\RussianFolkTales.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\RussianFolkTales.pdb
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\AppManifest.xaml
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\Properties\WMAppManifest.xml
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\RussianFolkTales_Debug_AnyCPU.xap
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Advertising.Mobile.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\microsoft.advertising.mobile.ui.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Phone.Controls.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\Microsoft.Advertising.Mobile.xml
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\microsoft.advertising.mobile.ui.xml
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.csprojResolveAssemblyReference.cache
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\App.g.cs
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\DetailsPage.g.cs
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\MainPage.g.cs
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.g.resources
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.dll
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\RussianFolkTales.pdb
+L:\Phone_Applications\actual_projects\RussianFolkTales\RussianFolkTales\obj\Debug\XapCacheFile.xml

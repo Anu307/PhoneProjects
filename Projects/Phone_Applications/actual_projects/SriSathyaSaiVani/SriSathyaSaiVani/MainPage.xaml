@@ -1,0 +1,51 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI"
+    x:Class="SriSathyaSaiVani.MainPage"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="Next" Click="Next_Click"/>
+                <shell:ApplicationBarMenuItem Text="previous" Click="Previous_Click"/>
+
+            </shell:ApplicationBar.MenuItems>
+            <shell:ApplicationBarIconButton Click="Play_Click" IconUri="transport.play.png" Text="Play"/>
+            <shell:ApplicationBarIconButton Click="Stop_Click" IconUri="stop.png" Text="Stop"/>
+            <shell:ApplicationBarIconButton Click="Toggle_Click" IconUri="next.png" Text="next pic"/>
+            <shell:ApplicationBarIconButton Click="Feedback_Click" IconUri="feature.email.png" Text="Feedback"/>
+
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="0,0,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="Sri Sathya Sai Vani" Style="{StaticResource PhoneTextNormalStyle}" FontSize="24" FontWeight="Bold" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" Margin="3,0,21,0"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="0,103,12,0"/>
+        <ScrollViewer HorizontalAlignment="Left" Margin="0,103,0,0" Grid.Row="1" VerticalAlignment="Top" Width="462"/>
+        <Image x:Name="Image" Stretch="UniformToFill" Source="/pics/sathyasai_9.jpg" ScrollViewer.VerticalScrollBarVisibility="Auto" Margin="-1,28,1,67" Grid.RowSpan="2"/>
+        <UI:AdControl ApplicationId="7f32baae-3d91-48dd-9d05-eb7e5cfd2929" AdUnitId="10294852" HorizontalAlignment="Left" Height="80" VerticalAlignment="Bottom" Width="480" Grid.Row="1" Margin="0,0,0,-1"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

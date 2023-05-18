@@ -1,0 +1,64 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    
+     x:Class="WhatsYourAge_AdFree.MainPage"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="review" Click="Review_Click"/>
+                <shell:ApplicationBarMenuItem Text="Search" Click="Search_Click"/>
+
+            </shell:ApplicationBar.MenuItems>
+            <shell:ApplicationBarIconButton Click="Email_Click" IconUri="feature.email.png" Text="email" IsEnabled="False"/>
+            <shell:ApplicationBarIconButton Click="SMS_Click" IconUri="image.png" Text="SMS" IsEnabled="False"/>
+            <shell:ApplicationBarIconButton Click="Share_Click" IconUri="share.png" Text="share" IsEnabled="False"/>
+            <shell:ApplicationBarIconButton Click="Feedback_Click" IconUri="questionmark.png" Text="Feedback"/>
+
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+
+        <TextBlock x:Name="ApplicationTitle" Text="Whats Your Age" Style="{StaticResource PhoneTextNormalStyle}" FontFamily="Segoe WP Black" FontWeight="Bold" Margin="5,10,12,11" FontSize="36"/>
+       
+        <TextBlock x:Name="TitleBlock" HorizontalAlignment="Left" Margin="5,95,0,0" TextWrapping="Wrap" Text="My Date of Birth is:" VerticalAlignment="Top" Width="209"/>
+
+        <toolkit:DatePicker x:Name="datePicker" ValueStringFormat ="{}{0:D}" Value="8/3/2014" Margin="-9,133,0,538"/>
+        <!--TitlePanel contains the name of the application and page title-->
+
+
+        <TextBlock x:Name="AgeBox" HorizontalAlignment="Left" Margin="7,247,0,0" TextWrapping="Wrap" Text="Your age is:" VerticalAlignment="Top" Width="354" FontWeight="Bold" FontSize="24" />
+        <TextBlock x:Name="YearsTextbox" HorizontalAlignment="Left" Margin="6,317,0,0" TextWrapping="Wrap" Text="Years:" VerticalAlignment="Top" Width="63" />
+        <TextBlock x:Name="Text_Years" HorizontalAlignment="Left" Margin="88,317,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="380" />
+        <TextBlock x:Name="MonthsTextbox" HorizontalAlignment="Left" Margin="6,365,0,0" TextWrapping="Wrap" Text="Months:" VerticalAlignment="Top" />
+        <TextBlock x:Name="Text_Months" HorizontalAlignment="Left" Margin="88,365,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="380" />
+        <TextBlock x:Name="DaysTextbox" HorizontalAlignment="Left" Margin="6,406,0,0" TextWrapping="Wrap" Text="Days:" VerticalAlignment="Top" />
+        <TextBlock x:Name="Text_Days" HorizontalAlignment="Left" Margin="88,406,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="380" />
+        <TextBlock x:Name="YearsTextbox_Absolute" HorizontalAlignment="Left" Margin="10,455,0,0" TextWrapping="Wrap" Text="Absolute Values" VerticalAlignment="Top" Width="261" FontWeight="Bold" FontSize="24" />
+        <TextBlock x:Name="HoursTextbox_Absolute" HorizontalAlignment="Left" Margin="6,534,0,0" TextWrapping="Wrap" Text="Hours:" VerticalAlignment="Top" />
+        <TextBlock x:Name="Text_Hours_Absolute" HorizontalAlignment="Left" Margin="88,534,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="380" />
+        <TextBlock x:Name="DaysTextbox_Absolute" HorizontalAlignment="Left" Margin="6,493,0,0" TextWrapping="Wrap" Text="Days:" VerticalAlignment="Top" />
+        <TextBlock x:Name="Text_Days_Absolute" HorizontalAlignment="Left" Margin="88,493,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="380" />
+        <TextBlock x:Name="MinutesTextbox_Absolute" HorizontalAlignment="Left" Margin="6,570,0,0" TextWrapping="Wrap" Text="Mins:" VerticalAlignment="Top" />
+        <TextBlock x:Name="Text_Minutes_Absolute" HorizontalAlignment="Left" Margin="88,570,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="380" />
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="1" Margin="-9,261,0,0" Stroke="Black" VerticalAlignment="Top" Width="489"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="1" Margin="-9,442,0,0" Stroke="Black" VerticalAlignment="Top" Width="489"/>
+        <TextBlock x:Name="SecondsTextbox_Absolute" HorizontalAlignment="Left" Margin="6,605,0,0" TextWrapping="Wrap" Text="Secs:" VerticalAlignment="Top" />
+        <TextBlock x:Name="Text_Seconds_Absolute" HorizontalAlignment="Left" Margin="88,605,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="380" />
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

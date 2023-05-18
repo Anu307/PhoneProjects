@@ -1,0 +1,20 @@
+﻿<local:MainViewModel 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:SriSathyaSaiBaba" 
+    SampleProperty="Sample Text Property Value">
+    
+    <local:MainViewModel.Items>
+        <local:ItemViewModel LineOne="Asathoma"/>
+        <local:ItemViewModel LineOne="AshtotharaSathaNama"/>
+        <local:ItemViewModel LineOne="AumTatSat"/>
+        <local:ItemViewModel LineOne="Bhajanbinasukha"/>
+        <local:ItemViewModel LineOne="Brahmapanam"/>
+        <local:ItemViewModel LineOne="ChandaKiran"/>
+        <local:ItemViewModel LineOne="Madhavamurahara"/>
+        <local:ItemViewModel LineOne="Manasebhajare"/>
+        <local:ItemViewModel LineOne="Mangalaarthi"/>
+        <local:ItemViewModel LineOne="Suprabatham"/>
+    </local:MainViewModel.Items>
+    
+</local:MainViewModel>

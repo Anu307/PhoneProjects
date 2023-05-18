@@ -1,0 +1,204 @@
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\ApplicationIcon.png
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\Androcles.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\Androcles.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\Avaricious and Envious.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\Avaricious and Envious.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\Belling the Cat.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\Belling the Cat.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\Hercules and the Waggoneer.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\Hercules and the Waggoneer.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Ant and the Grasshopper.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Ant and the Grasshopper.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Ass and the Lapdog.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Ass and the Lapdog.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Ass in the Lion's Skin.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Ass in the Lion's Skin.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Ass's Brains.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Ass's Brains.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Bald Man and the Fly.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Bald Man and the Fly.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Bat, the Birds, and the Beasts.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Bat, the Birds, and the Beasts.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Belly and the Members.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Belly and the Members.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Buffoon and the Countryman.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Buffoon and the Countryman.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Bundle of Sticks.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Bundle of Sticks.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Cat-Maiden.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Cat-Maiden.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Cock and the Pearl.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Cock and the Pearl.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Crow and the Pitcher.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Crow and the Pitcher.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Dog and the Shadow.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Dog and the Shadow.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Dog and the Wolf.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Dog and the Wolf.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Dog in the Manger.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Dog in the Manger.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Eagle and the Arrow.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Eagle and the Arrow.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fisher and the Little Fish.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fisher and the Little Fish.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fisher.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fisher.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Four Oxen and the Lion.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Four Oxen and the Lion.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Cat.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Cat.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Crow.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Crow.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Goat.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Goat.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Grapes.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Grapes.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Mask.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Mask.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Mosquitoes.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Mosquitoes.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Stork.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox and the Stork.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox Without a Tail.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox Without a Tail.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox, the Cock, and the Dog.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Fox, the Cock, and the Dog.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Frog and the Ox.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Frog and the Ox.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Frogs Desiring a King.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Frogs Desiring a King.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Goose With the Golden Eggs.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Goose With the Golden Eggs.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Hare and the Tortoise.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Hare and the Tortoise.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Hare With Many Friends.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Hare With Many Friends.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Hares and the Frogs.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Hares and the Frogs.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Hart and the Hunter.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Hart and the Hunter.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Hart in the Ox-Stall.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Hart in the Ox-Stall.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Horse and the Ass.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Horse and the Ass.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Horse, Hunter, and Stag.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Horse, Hunter, and Stag.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Jay and the Peacock.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Jay and the Peacock.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Labourer and the Nightingale.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Labourer and the Nightingale.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Lion and the Mouse.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Lion and the Mouse.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Lion and the Statue.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Lion and the Statue.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Lion in Love.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Lion in Love.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Lion's Share.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Lion's Share.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Lion, the Fox, and the Beasts.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Lion, the Fox, and the Beasts.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Man and His Two Wives.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Man and His Two Wives.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Man and the Satyr.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Man and the Satyr.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Man and the Serpent.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Man and the Serpent.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Man and the Wood.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Man and the Wood.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Man and the Wooden God.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Man and the Wooden God.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Man, the Boy, and the Donkey.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Man, the Boy, and the Donkey.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Milkmaid and Her Pail.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Milkmaid and Her Pail.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Miser and His Gold.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Miser and His Gold.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Mountains in Labour.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Mountains in Labour.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Nurse and the Wolf.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Nurse and the Wolf.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Old Man and Death.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Old Man and Death.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Old Woman and the Wine-Jar.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Old Woman and the Wine-Jar.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The One-Eyed Doe.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The One-Eyed Doe.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Peacock and Juno.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Peacock and Juno.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Serpent and the File.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Serpent and the File.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Shepherd's Boy.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Shepherd's Boy.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Sick Lion.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Sick Lion.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Swallow and the Other Birds.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Swallow and the Other Birds.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Tortoise and the Birds.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Tortoise and the Birds.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Town Mouse and the Country Mouse.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Town Mouse and the Country Mouse.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Tree and the Reed.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Tree and the Reed.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Trumpeter Taken Prisoner.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Trumpeter Taken Prisoner.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Two Crabs.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Two Crabs.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Two Fellows and the Bear.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Two Fellows and the Bear.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Two Pots.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Two Pots.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Wind and the Sun.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Wind and the Sun.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Wolf and the Crane.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Wolf and the Crane.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Wolf and the Kid.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Wolf and the Kid.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Wolf and the Lamb.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Wolf and the Lamb.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Wolf in Sheep's Clothing.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Wolf in Sheep's Clothing.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Woodsman and the Serpent.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Woodsman and the Serpent.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Young Thief and His Mother.htm
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\files\The Young Thief and His Mother.txt
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\Background.png
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\TalkingStories.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\TalkingStories.pdb
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\AppManifest.xaml
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\Properties\WMAppManifest.xml
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\TalkingStories_Release_AnyCPU.xap
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\Microsoft.Advertising.Mobile.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\microsoft.advertising.mobile.ui.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\Microsoft.Phone.Controls.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\Microsoft.Advertising.Mobile.xml
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\microsoft.advertising.mobile.ui.xml
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\obj\Debug\TalkingStories.csprojResolveAssemblyReference.cache
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\obj\Debug\App.g.cs
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\obj\Debug\DetailsPage.g.cs
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\obj\Debug\MainPage.g.cs
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\obj\Debug\TalkingStories.g.resources
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\obj\Debug\TalkingStories.dll
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\obj\Debug\TalkingStories.pdb
+L:\Phone_Applications\Under_Development\TalkingStories\TalkingStories\obj\Debug\XapCacheFile.xml

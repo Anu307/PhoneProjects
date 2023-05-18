@@ -1,0 +1,33 @@
+﻿<xapCache source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\Bin\Release\HotSpices_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="10/7/2013 9:53:28 AM">
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\obj\Release\HotSpices.dll" archivePath="HotSpices.dll" lastWriteTime="10/7/2013 9:53:27 AM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\asafoetida.wav" archivePath="asafoetida.wav" lastWriteTime="9/25/2013 9:18:49 AM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\cardamom.wav" archivePath="cardamom.wav" lastWriteTime="9/25/2013 9:18:49 AM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\cinnamon.wav" archivePath="cinnamon.wav" lastWriteTime="9/25/2013 9:18:49 AM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\clove.wav" archivePath="clove.wav" lastWriteTime="9/25/2013 9:18:49 AM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\cumin.wav" archivePath="cumin.wav" lastWriteTime="9/25/2013 9:18:50 AM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\fennel.wav" archivePath="fennel.wav" lastWriteTime="9/25/2013 9:18:50 AM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\fenugreek.wav" archivePath="fenugreek.wav" lastWriteTime="9/25/2013 9:18:50 AM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\nutmeg.wav" archivePath="nutmeg.wav" lastWriteTime="9/25/2013 9:18:50 AM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\peppercorn.wav" archivePath="peppercorn.wav" lastWriteTime="9/25/2013 9:18:50 AM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\pics\asafoetida.jpg" archivePath="pics\asafoetida.jpg" lastWriteTime="10/6/2013 5:14:50 PM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\pics\Cardamom.jpg" archivePath="pics\Cardamom.jpg" lastWriteTime="10/6/2013 5:14:50 PM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\pics\cinnamon.jpg" archivePath="pics\cinnamon.jpg" lastWriteTime="10/6/2013 5:14:50 PM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\pics\clove.jpg" archivePath="pics\clove.jpg" lastWriteTime="10/6/2013 5:14:50 PM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\pics\cumin.jpg" archivePath="pics\cumin.jpg" lastWriteTime="10/6/2013 5:14:50 PM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\pics\fennel.jpg" archivePath="pics\fennel.jpg" lastWriteTime="10/6/2013 5:14:50 PM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\pics\fenugreek.jpg" archivePath="pics\fenugreek.jpg" lastWriteTime="10/6/2013 5:14:50 PM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\pics\nutmeg.jpg" archivePath="pics\nutmeg.jpg" lastWriteTime="10/6/2013 5:14:50 PM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\pics\pepper.jpg" archivePath="pics\pepper.jpg" lastWriteTime="10/6/2013 5:14:50 PM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="10/6/2013 5:34:30 PM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10/7/2013 9:49:53 AM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\Bin\Release\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="10/6/2013 5:21:50 PM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\Bin\Release\Background.png" archivePath="Background.png" lastWriteTime="10/6/2013 5:21:50 PM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\AudioPlaybackAgent\Bin\Release\AudioPlaybackAgent.dll" archivePath="AudioPlaybackAgent.dll" lastWriteTime="9/19/2013 5:15:55 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="9/10/2012 9:43:36 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\microsoft.advertising.mobile.ui.dll" archivePath="microsoft.advertising.mobile.ui.dll" lastWriteTime="9/10/2012 9:43:36 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="3/3/2013 7:40:38 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="3/3/2013 7:40:38 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.xml" archivePath="Microsoft.Advertising.Mobile.xml" lastWriteTime="7/20/2012 7:57:18 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\microsoft.advertising.mobile.ui.xml" archivePath="microsoft.advertising.mobile.ui.xml" lastWriteTime="7/20/2012 7:57:18 AM" />
+  <file source="L:\Phone_Applications\Under_development\HotSpices\HotSpices\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="10/7/2013 9:49:53 AM" />
+</xapCache>
